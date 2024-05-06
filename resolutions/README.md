@@ -1,6 +1,6 @@
-# Developer Relations Organization Group Resolution Process
+# Developer Relations Foundation Resolution Process
 
-This process is designed to allow members of the Developer Relations Organization to
+This process is designed to allow members of the Developer Relations Foundation to
 propose actions to be considered by the Steering Committee, for the Steering Committe to
 review and discuss them, and for actions taken by the Steering Committee to be documented.
 
