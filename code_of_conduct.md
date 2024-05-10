@@ -61,7 +61,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[conduct@site.org][conduct-mailto].
+[conduct@dev-rel.org][conduct-mailto].
 
 All complaints will be reviewed and investigated promptly and fairly by the
 [Developer Relations Foundation Steering Committee][github-governance].
