@@ -7,6 +7,7 @@ For information on the general governance structure, please refer to our [charte
    -  Principles
    -  Roles
 - [Communication Channel Guidelines](#communication-channel-guidelines)
+- [Steering Committee's Voting Process]()
 - [Linux Foundation's Policies](https://www.linuxfoundation.org/legal/policies)
 
 ## Working Groups
