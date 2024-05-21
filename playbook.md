@@ -26,11 +26,11 @@ All Working Groups within the DevRel Foundation must
 
 Responsible for coordinating the activities of their respective working groups.
 
-Responsibiliteis include:
+Responsibilities include:
 
 - Facilitate meetings and set up the agenda
-- Ensure that discussions align with the yearly startegic goals previously approved by the Steering Committee
-- Provide quarterly updates to the Steering Committee and seeking guidance when necessary
+- Ensure that discussions align with the yearly strategic goals previously approved by the Steering Committee
+- Provide quarterly updates to the Steering Committee and seek guidance when necessary
 
 
 #### Steering Committee Members
@@ -43,7 +43,7 @@ Responsibilities include:
 - Approve major decisions
 - Resolve conflicts
 
-#### Working Group Contirbutors
+#### Working Group Contributors
 
 Contributors are the active participants of the working groups. They participate in discussions, contribute code or documentation, and other resources, collaborating with other participants to achieve the working group's strategic objectives
 
