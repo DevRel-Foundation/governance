@@ -12,8 +12,9 @@ Work in Progress
 ## 🧭 About DevRel Foundation Steering Committee 
 
 The Steering Committee shall be elected for their expertise and contribution to the advancement of DevRel Foundation mission and will be responsible for all oversight of the open collaboration Project. For more information, please refer to our [charter]().
+Currently, the Official Steering Committee is under formation.
 
-| Name | Company | Elected/Appointed | Term |
+| Name | Affiliation | Elected/Appointed | Term |
 | --- | --- | --- | --- |
 | [Person]() | - | - | - |
 | [Person]() | - | - | - |
