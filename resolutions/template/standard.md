@@ -20,11 +20,13 @@ That the committee {approves/declines the proposed action}.
 
 ## Vote Results
 
-- Caroline Lewko - {approve/decline/abstain/absent}
-- Jonathan LeBlanc - {approve/decline/abstain/absent}
-- Katie Miller - {approve/decline/abstain/absent}
-- Phil Leggetter - {approve/decline/abstain/absent}
-- Stacey Kruczek - {approve/decline/abstain/absent}
-- Tessa Kriesel - {approve/decline/abstain/absent}
+- Person - {approve/decline/abstain/absent}
+- Person - {approve/decline/abstain/absent}
+- Person - {approve/decline/abstain/absent}
+- Person - {approve/decline/abstain/absent}
+- Person - {approve/decline/abstain/absent}
+- Person - {approve/decline/abstain/absent}
+- Person - {approve/decline/abstain/absent}
+
 
 ## Rationale
