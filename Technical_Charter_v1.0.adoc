@@ -23,11 +23,7 @@ committers, maintainers, and other administrative positions) and other participa
 .. The SC may elect a SC Chair, who will preside over meetings of the SC and will serve until their resignation, term limit,  or replacement by the SC.**   
 .. Responsibilities: The SC will be responsible for all aspects of oversight relating to the Project, which may include: 
 ... coordinating the direction of the Project; 
-... approving working groups, with the **initial working groups** expected to cover topics including, but not limited to: 
-.... People in the practice: Job descriptions, career foundations, and rubrics. 
-.... The practice and programs: Common terminology, frameworks, metrics, and analytics. 
-.... Community management: Best practices and initiatives for community building. 
-.... Developer Relations Foundation operations: Go-to-market functions, marketing, communication, and administration for the foundation.  
+... approving working groups based on the evolving needs and priorities defined by the community;
 ... organizing sub-projects and removing sub-projects; 
 ... defining roles and other positions and setting criteria and processes on how those roles and positions are filled; 
 ... creating sub-committees or working groups to focus on cross-project issues and requirements; 
