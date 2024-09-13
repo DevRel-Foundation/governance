@@ -1,10 +1,9 @@
 = Charter (the “Charter”) for Developer Relations Foundation a Series of LF Projects, LLC
 
+> The purpose of having a charter for the Developer Relations Foundation is to help people understand its mission and scope. The DevRel Foundation Charter is a living document, allowing the community to propose changes and updates as the project evolves.
+
 Adopted June 3, 2024
 
-This Charter sets forth the responsibilities and procedures for contribution to, and oversight of, the Developer Relations Foundation open collaboration project, which has been established 
-as Developer Relations Foundation a Series of LF Projects, LLC (the “Project”).  LF Projects, LLC (“LF Projects”) is a Delaware series limited liability company. All contributors (including 
-committers, maintainers, and other administrative positions) and other participants in the Project (collectively, “Collaborators”) must comply with the terms of this Charter. 
 :toc:
 
 . **Mission and Scope of the Project** 
