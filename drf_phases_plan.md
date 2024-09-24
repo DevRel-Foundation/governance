@@ -38,7 +38,7 @@ This is an iterable approach to organizing and managing the many community-drive
 ### **Phase 4: Laying the Foundation** (Estimated Start January or February 2025)
 
 - Managers added to tools. (Duration: 5 Days)
-	- Managers will be added to the [group]-[managers@lists.dev-rel.org](mailto:managers@lists.dev-rel.org) distribution list.
+	- Managers will be added to the [group]-managers@lists.dev-rel.org distribution list.
 	- Managers will be added to the #[group] channel on the DevRel Foundation Discord instance.
 	- Managers will be added to the [group] repo on the DevRel Foundation GitHub.
 - Creation of Group Charter (Duration: 2 Weeks)
@@ -70,7 +70,7 @@ This is an iterable approach to organizing and managing the many community-drive
 ### **Phase 7: Getting to Work** (Estimated Start May 2025)
 
 - Members added to tools. (Duration: 5 Days)
-	- Members will be added to the [group]-[memebers@lists.dev-rel.org](mailto:managers@lists.dev-rel.org) distribution list.
+	- Members will be added to the [group]-memebers@lists.dev-rel.org distribution list.
 	- Members will be added to the #[group] channel on the DevRel Foundation Discord instance.
 - Hold initial group meeting/orientation. (Within: 2 Weeks)
 	- Introductions and Q&A.
