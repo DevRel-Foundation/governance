@@ -1,11 +1,11 @@
 This is an iterable approach to organizing and managing the many community-driven initiatives important to the DevRel Profession. This process is designed to ensure that the DevRel Foundation isn’t led by the assumptions of the steering committee as to what the important topics to tackle are but instead charged with the stewardship of collecting input, creating processes to organize that data, and shepherding solutions to real problems. Embedding flexibility and iteration ensures continuous growth and adaptation to meet the community's evolving needs.
 
-### **Phase 1: Identifying Common Themes**
+### **Phase 1: Identifying Common Themes** (September-October)
 
-- Gather key themes that matter to the community through surveys, office hours, Discord, GitHub Discussions, and other community conversations. (Duration: 2 - 3 Weeks)
-- Announce this initial list of key themes to the participants and the public via GitHub with the option for the community to add more suggestions. (Duration: 10 Days)
-- Finally, the steering committee will be able to add additional themes to complete the list. (Duration: 4 Days)
-### **Phase 2: Establishing Group Managers**
+- Gather key themes that matter to the community through [surveys](https://docs.google.com/forms/d/e/1FAIpQLSd1_z1JP7VTOAt6FQBcG7iwHSXFX6JbgRnVtk7WuVBBAMXHmg/viewform), [office hours](https://discord.com/channels/1255563562449899573/1255564735009656964), [Discord](https://discord.gg/Vc6Qytc9vE), [GitHub Discussions](https://github.com/DevRel-Foundation/governance/discussions), and other community conversations. (Submission Deadline October 4, 2024)
+- Announce this initial list of key themes to the participants and the public via GitHub with the option for the community to add more suggestions. (Submission Deadline October 21, 2024)
+- Finally, the steering committee will be able to add additional themes to complete the list. (Publishing Deadline October 31, 2024)
+### **Phase 2: Establishing Group Managers** (Estimated Start November 2024)
 
 - Round 1 - Using the final list of key themes from Phase 1, volunteers from the community will opt-in to manage the group responsible for a theme. (Duration: 10 Days)
 	- Limit of 1 group selection per person.
@@ -18,7 +18,7 @@ This is an iterable approach to organizing and managing the many community-drive
 	- Minimum of 6 months commitment.
 	- Minimum of 3 managers for each group.
 	- Selections are final.
-### **Phase 3: Securing Manager Commitment**
+### **Phase 3: Securing Manager Commitment** (Estimated Start December 2024)
 
 - Groups that meet the minimum threshold of managers will move to this Phase.    
 - Managers provide information and sign commitment forms that outline the expectations for their roles. (Duration: 1 Week) 
@@ -35,7 +35,7 @@ This is an iterable approach to organizing and managing the many community-drive
 	- Groups that have less than 3 managers will be removed and notified.    
 - Managers and Groups removed may file an appeal. (Duration: 5 Days)
 	- A majority of the steering committee must vote to overturn an appeal.
-### **Phase 4: Laying the Foundation**
+### **Phase 4: Laying the Foundation** (Estimated Start January or February 2025)
 
 - Managers added to tools. (Duration: 5 Days)
 	- Managers will be added to the [group]-[managers@lists.dev-rel.org](mailto:managers@lists.dev-rel.org) distribution list.
@@ -53,7 +53,7 @@ This is an iterable approach to organizing and managing the many community-drive
 - Feedback and approval from the steering committee. (Duration: 1 Week)
 	- Groups that do not receive approval will be removed and notified.
 	- This decision can not be appealed.
-### **Phase 5: Recruitment**
+### **Phase 5: Recruitment** (Estimated Start February or March 2025)
 
 - Each Group’s Charter and the list of managers will be made public.
 - Recruitment drive for membership to the group. (Duration: 2 Weeks)
@@ -61,13 +61,13 @@ This is an iterable approach to organizing and managing the many community-drive
 	- The steering committee will promote the recruitment process.
 	- Group managers are encouraged to promote the recruitment process.
 	- Each group must receive a minimum of 8 members.
-### **Phase 6: Finalizing Membership**
+### **Phase 6: Finalizing Membership** (Estimated Start March or April 2025)
 
 - Groups will select their members. (Duration: 2 Weeks)
 	- Members must confirm their participation in the group.
 	- Members are limited to membership in a maximum of 2 groups.
 - Group managers hold a consensus vote to move forward. (Duration: 3 Days)
-### **Phase 7: Getting to Work**
+### **Phase 7: Getting to Work** (Estimated Start May 2025)
 
 - Members added to tools. (Duration: 5 Days)
 	- Members will be added to the [group]-[memebers@lists.dev-rel.org](mailto:managers@lists.dev-rel.org) distribution list.
@@ -80,7 +80,7 @@ This is an iterable approach to organizing and managing the many community-drive
 	- Assign roles for members if needed.
 - Submit documentation to the steering committee.
 	- These documents will be made public.
-### **Phase 8: Ongoing Progress and Reporting**
+### **Phase 8: Ongoing Progress and Reporting** (Estimated Start June 2025)
 
 - At least 1 group manager must present their progress at 1 of the DevRel Foundation open meetings every month.
 	- Progress against their timeline.
@@ -88,7 +88,7 @@ This is an iterable approach to organizing and managing the many community-drive
 	- Request additional resources.
 	- Estimate of work that will be completed before the next check-in period.
 	- Announce any significant changes to the group charter or deliverable.
-### **Phase 9: Final Presentations and Future Planning**
+### **Phase 9: Final Presentations and Future Planning** (Estimated Start December 2025 or January 2026)
 
 - At the conclusion of the commitment period, there will be a final presentation at an open meeting. (Within: 1 Month)
 	- Deliverables published to GitHub.
@@ -104,3 +104,5 @@ As we complete all phases, the steering committee will review the entire process
 We value your input on the duration and effectiveness of each phase to balance thoroughness and efficiency. Your feedback will help us refine our approach and ensure impactful, meaningful collaboration.
 
 Together, we can foster a thriving community where everyone has the opportunity to succeed.
+
+![Chart with estimated dates of the plan](chart.png)
