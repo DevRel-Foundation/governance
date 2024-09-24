@@ -61,17 +61,17 @@ This is an iterable approach to organizing and managing the many community-drive
 	- The steering committee will promote the recruitment process.
 	- Group managers are encouraged to promote the recruitment process.
 	- Each group must receive a minimum of 8 members.
-### **Phase 6: Finalizing Membership** (Estimated Start March or April 2025)
+### **Phase 6: Finalizing Participation** (Estimated Start March or April 2025)
 
-- Groups will select their members. (Duration: 2 Weeks)
-	- Members must confirm their participation in the group.
-	- Members are limited to membership in a maximum of 2 groups.
+- Groups will select their participants. (Duration: 2 Weeks)
+	- Participants must confirm their participation in the group.
+	- Participants are limited to membership in a maximum of 2 groups.
 - Group managers hold a consensus vote to move forward. (Duration: 3 Days)
 ### **Phase 7: Getting to Work** (Estimated Start May 2025)
 
-- Members added to tools. (Duration: 5 Days)
-	- Members will be added to the [group]-memebers@lists.dev-rel.org distribution list.
-	- Members will be added to the #[group] channel on the DevRel Foundation Discord instance.
+- Participants added to tools. (Duration: 5 Days)
+	- Participants will be added to the [group]-memebers@lists.dev-rel.org distribution list.
+	- Participants will be added to the #[group] channel on the DevRel Foundation Discord instance.
 - Hold initial group meeting/orientation. (Within: 2 Weeks)
 	- Introductions and Q&A.
 - Group documentation creation. (Duration: 2 Weeks)
