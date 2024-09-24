@@ -45,7 +45,7 @@ This is an iterable approach to organizing and managing the many community-drive
 	- Write a well-defined mission statement for the group for the 6 month period.
 	- Define the leadership structure for the group.
 		- How are decisions made?
-		- How will members be included in decisions?
+		- How will participants be included in decisions?
 		- Who is responsible for what tasks?
 	- Estimate what resources and personnel are needed to accomplish the mission statement.
 	- How often and when will the group meet?
@@ -56,28 +56,28 @@ This is an iterable approach to organizing and managing the many community-drive
 ### **Phase 5: Recruitment** (Estimated Start February or March 2025)
 
 - Each Group’s Charter and the list of managers will be made public.
-- Recruitment drive for membership to the group. (Duration: 2 Weeks)
-	- Group managers create the application form for membership.
+- Recruitment drive for participants to the group. (Duration: 2 Weeks)
+	- Group managers create the application form for participants.
 	- The steering committee will promote the recruitment process.
 	- Group managers are encouraged to promote the recruitment process.
-	- Each group must receive a minimum of 8 members.
+	- Each group must receive a minimum of 8 participants.
 ### **Phase 6: Finalizing Participation** (Estimated Start March or April 2025)
 
 - Groups will select their participants. (Duration: 2 Weeks)
 	- Participants must confirm their participation in the group.
-	- Participants are limited to membership in a maximum of 2 groups.
+	- Participants are limited to participate in a maximum of 2 groups.
 - Group managers hold a consensus vote to move forward. (Duration: 3 Days)
 ### **Phase 7: Getting to Work** (Estimated Start May 2025)
 
 - Participants added to tools. (Duration: 5 Days)
-	- Participants will be added to the [group]-memebers@lists.dev-rel.org distribution list.
+	- Participants will be added to the [group]-participants@lists.dev-rel.org distribution list.
 	- Participants will be added to the #[group] channel on the DevRel Foundation Discord instance.
 - Hold initial group meeting/orientation. (Within: 2 Weeks)
 	- Introductions and Q&A.
 - Group documentation creation. (Duration: 2 Weeks)
 	- Define the goals of the final deliverable after the 6 month period.
 	- Create a timeline with significant milestones.
-	- Assign roles for members if needed.
+	- Assign roles for participants if needed.
 - Submit documentation to the steering committee.
 	- These documents will be made public.
 ### **Phase 8: Ongoing Progress and Reporting** (Estimated Start June 2025)
@@ -95,8 +95,8 @@ This is an iterable approach to organizing and managing the many community-drive
 	- Wrap-up summary of lessons learned published to GitHub.
 	- Recommendations to pass on to the next group published to GitHub.
 	- Feedback on the overall process published to GitHub.
-	- Optional recognition of group managers or members.
-	- Indication of what managers and members would continue for another commitment period and in what capacity.
+	- Optional recognition of group managers or participants.
+	- Indication of what managers and participants would continue for another commitment period and in what capacity.
 ### **Conclusion: Continuous Improvement**
 
 As we complete all phases, the steering committee will review the entire process. This final step is essential for ongoing growth and adaptability. We may revisit Phase 1 for new ideas and feedback to keep our community dynamic and aligned with its goals.
