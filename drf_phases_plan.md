@@ -2,7 +2,7 @@ This is an iterable approach to organizing and managing the many community-drive
 
 ### **Phase 1: Identifying Common Themes** (September-October)
 
-- Gather key themes that matter to the community through [surveys](https://docs.google.com/forms/d/e/1FAIpQLSd1_z1JP7VTOAt6FQBcG7iwHSXFX6JbgRnVtk7WuVBBAMXHmg/viewform), [office hours](https://discord.com/channels/1255563562449899573/1255564735009656964), [Discord](https://discord.gg/Vc6Qytc9vE), [GitHub Discussions](https://github.com/DevRel-Foundation/governance/discussions), and other community conversations. (Submission Deadline October 4, 2024)
+- Gather key themes that matter to the community through [surveys](https://docs.google.com/forms/d/e/1FAIpQLSd1_z1JP7VTOAt6FQBcG7iwHSXFX6JbgRnVtk7WuVBBAMXHmg/viewform), [office hours](https://discord.com/channels/1255563562449899573/1255564735009656964), [Discord](https://discord.gg/Vc6Qytc9vE), [GitHub Discussions](https://github.com/DevRel-Foundation/governance/discussions), and other [community conversations](challenges.md). (Submission Deadline October 4, 2024)
 - Announce this initial list of key themes to the participants and the public via GitHub with the option for the community to add more suggestions. (Submission Deadline October 21, 2024)
 - Finally, the steering committee will be able to add additional themes to complete the list. (Publishing Deadline October 31, 2024)
 ### **Phase 2: Establishing Group Managers** (Estimated Start November 2024)
