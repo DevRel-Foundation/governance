@@ -5,7 +5,7 @@
 
 # Developer Relations Foundation Governance
 
-Home of the Foundation Governance. Developer Relations Foundation is a community-driven project, with no funding involved.
+Developer Relations Foundation is a community-driven project, with no funding involved. This repo was created  with the aim of helping community participants better understand how DevRel Foundation operates. 
 
 At this point, part of the community calls are being used as Open Office Hours to reach community consensus on the foundation's next steps and governance process. People can access the APAC, EMEA, and AMER calls to get involved [here](https://github.com/DevRel-Foundation#community-calls).
 
@@ -16,6 +16,19 @@ There is also a brief [survey](https://discord.com/channels/1255563562449899573/
 - Express preferences for how and when the Foundation may communicate with you
 
 
-## 🧭 About Developer Relations Foundation Steering Committee 
+<details>
+  <summary>
+    <strong>🧭 Volunteer Steering Committee Member Responsibilities </strong>
+  </summary><br />
+The Volunteer Steering Committee is comprised of the initial group of individuals, all tenured Developer Relations and Developer Marketing leaders, who connected over the shared vision of creating a foundation.
 
-The Steering Committee provides oversight for the entire open collaborative project as defined in the Developer Relations Foundation [Charter (first version, living document)](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter_v1.0.adoc). Currently, a group of volunteers has helped establish initial lightweight processes to support community-driven initiatives. These initiatives, still to be defined, aim to shape the day-to-day work within the Foundation. Leadership roles inside these initiatives may be responsible for coordinating these daily activities and may also have the responsibility to appoint other roles. These leadership roles, as well as how these initiatives may be grouped and formed, are yet to be defined by the community.
+The primary responsibilities of the Volunteer Steering Committee are:
+
+- Established the initial charter and governance model that contributed to the LF's "intent to form" commitment
+- Collect input on priorities and interest in getting involved to move forward on processes, policies, and frameworks that will be driven by working groups, as well as forming the initial working groups
+- Internal project management and operations, including PR, community, website development, and communications
+
+Out of the working groups, we anticipate recommendations on governance that will include how to elect Foundation leadership moving forward. At that time, any leadership roles we play (if at all) will be determined through the established election processes.
+
+
+  </details>
