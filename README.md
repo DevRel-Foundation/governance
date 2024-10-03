@@ -1,4 +1,5 @@
->  Work-in-progress document. People can contribute to its content by submitting a Pull Request or raising an Issue
+>[!NOTE]
+> Work-in-progress document. People can contribute to its content by submitting a Pull Request or raising an Issue
 > 
 > There is a work-in-progress Frequently Asked Questions document that provides further details about the model, progress, and scope of the Developer Relations Foundation's formation. To learn more, please visit our FAQ section [here](https://github.com/DevRel-Foundation#faq).
 
