@@ -1,4 +1,4 @@
-### 1. DevRel Structure and Organizational Role
+## 1. DevRel Structure and Organizational Role
    - Explore the optimal organizational placement of DevRel within a company and document its relationship with adjacent departments. 
    - Explore establishing DevRel as an independent business unit within organizations.
    - Clearly define what DevRel means and its core principles.
@@ -6,7 +6,7 @@
    - Standardize DevRel terminology for consistent use across the industry.
    - Ways to communicate the internal value of DevRel more effectively within organizations.
 
-### 2. Professional Development, Career Growth, and Support
+## 2. Professional Development, Career Growth, and Support
    - Explore ways to increase the stability and longevity of DevRel careers.
    - Establish a mentorship program for those in DevRel.
    - Develop programs to support professionals transitioning into DevRel from other careers.
@@ -16,7 +16,7 @@
    - Develop resources to help professionals find DevRel roles outside of AMER/EMEA regions.
    - Mechanisms that ensure that the DevRel Foundation addresses the needs and challenges of all DevRel professionals, including Developer Marketing.
 
-### 3. Community Engagement and Support
+## 3. Community Engagement and Support
    - Expand DevRel Foundation awareness and increase DevRel professionals' involvement.
    - Organize and manage the DevRel Foundation Discord to foster community engagement.
    - Plan and execute DevRel Foundation events, both virtual and in-person, to foster collaboration and knowledge sharing.
@@ -24,14 +24,14 @@
    - Develop a DEI (Diversity, Equity, and Inclusion) plan for the DevRel Foundation Steering Committee.
    - Should the DevRel Foundation have a membership model? If so, what should it look like?
 
-### 4. Resources and Asset Aggregation
+## 4. Resources and Asset Aggregation
    - Aggregate and make accessible existing assets that support DevRel practitioners.
    - Create a library of developer personas to guide engagement strategies.
    - Curate a directory of DevRel-specific software and tools.
    - Maintain an events/CFP directory to support the community’s participation in relevant industry events.
    - Develop resources to track product feedback from the community in a structured way.
 
-### 5. Metrics, Reporting, and Best Practices
+## 5. Metrics, Reporting, and Best Practices
    - Develop tracking and metrics strategies, including the potential consequences and unintended behaviors of optimizing for specific metrics.
    - Review models like the Orbit Model, Marketing Funnel, AAARRRP Strategy Framework, etc. to guide DevRel strategies.
    - Analyze engagement models and frameworks for targeting different geographical regions (e.g., more partner-focused approaches in Japan).
@@ -42,7 +42,7 @@
    - Establish best practices for measuring the value of DevRel.
    - Develop sustainable funding models and ways to demonstrate ROI for DevRel initiatives.
 
-### 6. Innovation and Emerging Trends
+## 6. Innovation and Emerging Trends
    - Explore how AI can integrate into DevRel strategies, especially in areas like test automation and developer onboarding.
    - Identify strategies to remain relevant to developers as the industry evolves.
    - Explore the balance between engagement channels, travel, and sustainability in DevRel.
