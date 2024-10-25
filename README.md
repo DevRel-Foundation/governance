@@ -32,3 +32,51 @@ Out of the working groups, we anticipate recommendations on governance that will
 
 
   </details>
+
+
+## Our Playbook - Operational Guidelines
+
+The DRF Playbook is a practical guide designed to help community participants understand and navigate processes within the project. While the Charter provides a general overview of the project’s structure and governance, the Playbook covers specific operational details that ensure smooth participation and collaboration. It includes guidelines on how community participants can submit new proposals, where and how these proposals are discussed, and the processes for onboarding new members. Essentially, the Playbook serves as a hands-on resource for the community, outlining procedures not explicitly covered in the Charter and ensuring transparency and accessibility for all participants.
+
+### DRF Community Calls
+
+This group hosts community calls every other week. People can check the times and upcoming calls in the Groups.io calendar: https://lists.dev-rel.org/g/community/calendar
+
+- AMER DevRel Found Community Call
+- APAC & EMEA DevRel Found Community Call
+
+These calls serve two main purposes:
+
+First, they provide a neutral and safe space to discuss topics important to the community, share ideas, and ask questions aligned with the mission of the DevRel Foundation. If you have a story to share, the recommended process is to open a new issue via GitHub Discussions (more info below) with the topic in mind. This allows the call moderators to bring these topics into sessions, initiate community discussions, and reach consensus, potentially leading to a concrete action item (e.g., should this become a working group or be included in the foundation, etc.).
+
+Second, the calls serve as Open Office Hours to reach community consensus on the foundation's next phases and to address questions and blockers on DevRel Challenges and Frequently Asked Questions.
+
+<details>
+  <summary>
+    <strong> 📚 How to File Proposals and Discussion Topics </strong>
+  </summary>
+
+The community can file proposals via the DRF Governance repo by opening a new entry in the GitHub Discussions Forum. Whether you are new to the DRF community calls or a regular participant, you can add your discussion topics as a comment below or bring them up during the call. People can also share DevRel use cases, best practices, frameworks, and more by opening a new issue in GitHub Discussions, which serves as the Foundation’s public forum. 
+
+We are always looking for 5-10 minute presentations in future community calls to spark discussion with attendees and asynchronously.
+
+</details>
+<details>
+  <summary>
+    <strong> 📚 Roles in the DRF Community Calls</strong>
+  </summary>
+
+Roles include facilitator, moderator, scribe, and crier. 
+
+Anyone can volunteer to take on any of these roles for upcoming community calls. People can volunteer to lead in one of these roles during the next call by contacting steering-committee@dev-rel.org
+
+
+| **Role**       | **Responsibilities**                                                                                                                                              |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Moderator**  | Leads the discussion by going through agenda items, ensuring each topic receives the time it needs, and keeping conversations focused. Volunteering as a Moderator is a great way to develop facilitation skills and play an essential role in shaping community discussions.|
+| **Scribe**     | Captures and summarizes key points during the call, sharing these notes with the community in the dedicated GitHub Discussion afterward. Serving as a Scribe builds attention to detail and provides a vital resource for transparent communication within the community.|
+| **Crier**      | Keeps the community informed by announcing the agenda in the community mailing list and Discord channel. As the Crier, you enhance community engagement and ensure members are aware of discussion topics and opportunities to participate.|
+
+If it's your first time taking on one of these roles in an open source project, don’t worry—we’re all learning together! This free course on [Leading High-Performance Working Group Meetings](https://training.linuxfoundation.org/training/leading-high-performance-working-group-meetings-lfc120/) can help beginners navigate through these roles.
+
+</details>
