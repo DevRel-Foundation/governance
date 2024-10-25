@@ -36,7 +36,7 @@ Out of the working groups, we anticipate recommendations on governance that will
 
 ## Our Playbook - Operational Guidelines
 
-The DRF Playbook is a practical guide designed to help community participants understand and navigate processes within the project. While the Charter provides a general overview of the project’s structure and governance, the Playbook covers specific operational details that ensure smooth participation and collaboration. It includes guidelines on how community participants can submit new proposals, where and how these proposals are discussed, and the processes for onboarding new members. Essentially, the Playbook serves as a hands-on resource for the community, outlining procedures not explicitly covered in the Charter and ensuring transparency and accessibility for all participants.
+The DRF Playbook serves as a hands-on resource for the community. While the Charter provides a general overview of the project’s structure and governance, the Playbook covers specific operational details that ensure smooth participation and collaboration. It includes guidelines on how community participants can submit new proposals, where and how these proposals are discussed via community calls, and the community calls roles and responsibilities.
 
 ### DRF Community Calls
 
