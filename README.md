@@ -55,7 +55,11 @@ These calls serve two main purposes:
     <strong> 📚 How to File Proposals and Discussion Topics </strong>
   </summary>
 
-The community can file proposals via the DRF Governance repo by opening a new entry in the GitHub Discussions Forum. Whether you are new to the DRF community calls or a regular participant, you can add your discussion topics as a comment below or bring them up during the call. People can also share DevRel use cases, best practices, frameworks, and more by opening a new issue in GitHub Discussions, which serves as the Foundation’s public forum. 
+The community can file proposals via the DRF Governance repo by [opening a new entry in the GitHub Discussions Forum](https://github.com/DevRel-Foundation/governance/discussions/new/choose).
+
+Also, whether you are new to the DRF community calls or a regular participant, you can add your discussion topics as a comment in one of the [meeting note discussions](https://github.com/DevRel-Foundation/governance/discussions/categories/meeting-notes) or bring them up during the call.
+
+People can also share DevRel use cases, best practices, frameworks, and more by [opening a new Idea in GitHub Discussions](https://github.com/devrel-foundation/governance/discussions/new?category=ideas), which serves as the Foundation’s public forum. 
 
 We are always looking for 5-10 minute presentations in future community calls to spark discussion with attendees and asynchronously.
 
