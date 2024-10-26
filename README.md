@@ -47,9 +47,8 @@ This group hosts community calls every other week. People can check the times an
 
 These calls serve two main purposes:
 
-First, they provide a neutral and safe space to discuss topics important to the community, share ideas, and ask questions aligned with the mission of the DevRel Foundation. If you have a story to share, the recommended process is to open a new issue via GitHub Discussions (more info below) with the topic in mind. This allows the call moderators to bring these topics into sessions, initiate community discussions, and reach consensus, potentially leading to a concrete action item (e.g., should this become a working group or be included in the foundation, etc.).
-
-Second, the calls serve as Open Office Hours to reach community consensus on the foundation's next phases and to address questions and blockers on DevRel Challenges and Frequently Asked Questions.
+1. A neutral and safe space to discuss topics important to the community, share ideas, and ask questions aligned with the mission of the DevRel Foundation. If you have a story to share, the recommended process is to open a new issue via GitHub Discussions (more info below) with the topic in mind. This allows the call moderators to bring these topics into sessions, initiate community discussions, and reach a consensus, potentially leading to a concrete action item (e.g., should this become a working group or be included in the foundation, etc.).
+2. Open Office Hours to reach community consensus on the foundation's next phases and to address questions and blockers on DevRel Challenges and Frequently Asked Questions.
 
 <details>
   <summary>
