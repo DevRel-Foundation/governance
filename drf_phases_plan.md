@@ -1,5 +1,5 @@
-## Deprecation Warning
-The following phased plan has been **deprecated** in favor of a revised project plan. This document is slated for revision to incorporate the new planning details. In the interim, please see the [revised project plan](https://github.com/orgs/DevRel-Foundation/projects/7/views/1) for stages and status.
+> [!WARNING]
+> The following phased plan has been **deprecated** in favor of a revised project plan. This document is slated for revision to incorporate the new planning details. In the interim, please see the [revised project plan](https://github.com/orgs/DevRel-Foundation/projects/7/views/1) for stages and status.
 
 ## Phased Plan
 
