@@ -1,3 +1,10 @@
+## Deprecation Warning
+The following phased plan has been **deprecated** in favor of a revised project plan. This document is slated for revision to incorporate the new planning details. In the interim, please see the [revised project plan](https://github.com/orgs/DevRel-Foundation/projects/7/views/1) for stages and status.
+
+## Phased Plan
+
+### **Overview**
+
 This is an iterable approach to organizing and managing the many community-driven initiatives important to the DevRel Profession. This process is designed to ensure that the DevRel Foundation isn’t led by the assumptions of the steering committee as to what the important topics to tackle are but instead charged with the stewardship of collecting input, creating processes to organize that data, and shepherding solutions to real problems. Embedding flexibility and iteration ensures continuous growth and adaptation to meet the community's evolving needs.
 
 ### **Phase 1: Identifying Common Themes** (September-October)
