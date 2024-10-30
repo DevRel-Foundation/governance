@@ -127,7 +127,7 @@ Pre-Call (8-6 days in advance)
 
 During the Call
 
-1. Take notes in [google docs](https://docs.google.com/document/d/1I5dX4RbvJyt4Z2dTWsS1BjmzRQV8RHOJ5klJ_tZa_eg/edit?usp=sharing) bellow the agenda items. Avoid using affiliations, just use initials of members
+1. Take notes in [google docs](https://docs.google.com/document/d/1I5dX4RbvJyt4Z2dTWsS1BjmzRQV8RHOJ5klJ_tZa_eg/edit?usp=sharing) below the agenda items. Avoid using affiliations, just use initials of participants
 2. If there's someone on the call who did not added their name, add it yourself in the Google doc
   
 After the Call
