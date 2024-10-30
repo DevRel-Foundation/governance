@@ -74,11 +74,67 @@ Roles include facilitator, moderator, scribe, and crier.
 Anyone can volunteer to take on any of these roles for upcoming community calls. People can volunteer to lead in one of these roles during the next call by contacting steering-committee@dev-rel.org
 
 
-| **Role**       | **Responsibilities**                                                                                                                                              |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Moderator**  | Leads the discussion by going through agenda items, ensuring each topic receives the time it needs, and keeping conversations focused. Volunteering as a Moderator is a great way to develop facilitation skills and play an essential role in shaping community discussions.|
-| **Scribe**     | Captures and summarizes key points during the call, sharing these notes with the community in the dedicated GitHub Discussion afterward. Serving as a Scribe builds attention to detail and provides a vital resource for transparent communication within the community.|
-| **Crier**      | Keeps the community informed by announcing the agenda in the community mailing list and Discord channel. As the Crier, you enhance community engagement and ensure members are aware of discussion topics and opportunities to participate.|
+| **Role**| **Responsibilities**|**Notes**|**Recommended Experience**|
+|---------|---------------------|---------------|---------------|
+|**Moderator**| (1) Leads the discussion by going through agenda items, ensuring each topic receives the time it needs, and keeping conversations focused AND (2) Opens the call by inviting participants to add their names to the agenda, make group introductions and introduce the concept of Chatham House Rules, LF Antitrust Policies and the DRF Code of Conduct  | Volunteering as a Moderator is a great way to develop facilitation skills and play an essential role in shaping community discussions. The Moderator must be on the call while the Crier can skip the call | This person attended some previous community calls and is familiarized with the format |
+|**Scribe**| (1) Captures and summarizes key points during the call AND (2) share these notes with the community in the dedicated GitHub Discussion afterward| Serving as a Scribe builds attention to detail and provides a vital resource for transparent communication within the community | This person can have 0 experience and be a newcommer |
+|**Crier**| (1) Keeps the community informed by announcing the agenda one week in advance in the DRF community mailing list and Discord channel| As the Crier, you enhance community engagement and ensure members are aware of discussion topics and opportunities to participate. The Moderator must be on the call while the Crier can skip the call| | This person can have 0 experience and be a newcommer |
+
+</details>
+
+</details>
+<details>
+  <summary>
+    <strong> 📚 DRF Community Calls Checklists</strong>
+  </summary>
+
+
+## Moderator 
+When running a community call, please ensure you go through the following checklist:
+
+
+Pre-Call (5-4 days in advance)
+
+1. Please wait for the Crier to share the agenda. If the agenda hasn’t been announced and only 5 days remain before the call, kindly reach out to the Crier
+2. Review new community proposals or announcements shared on GH Discussions and include in the agenda
+
+During the Call
+
+3. Welcome Atendees and invite tehm to write their names in the Google Doc
+4. Go through Agenda Topics
+5. Assign the roles for the next call
+6. Keep teh conversation on track
+7. Close the call on time
+
+  
+## Crier
+
+Pre-Call (8-6 days in advance)
+
+1. Go to https://github.com/DevRel-Foundation/governance/discussions
+2. Open a new entry
+3. Copy Agenda template https://github.com/DevRel-Foundation/governance/discussions/114
+4. Edit brackets' info [  ]
+5. Go to [google doc](https://docs.google.com/document/d/1I5dX4RbvJyt4Z2dTWsS1BjmzRQV8RHOJ5klJ_tZa_eg/edit?usp=sharing)
+6. Copy content within `TEMPLATE - YYYY-MM-DD`
+7. Paste bellow `Next Meeting`section
+8. Edit brackets' info [  ]
+9. Announce the GH discussion via Discord #📆weekly-calls channel using @here tag
+10. Announce via community Mailing List (community@lists.dev-rel.org) https://lists.dev-rel.org/g/community
+11. Ping the Moderator when work is finished
+
+## Scribe
+
+During the Call
+
+1. Take notes in [google docs](https://docs.google.com/document/d/1I5dX4RbvJyt4Z2dTWsS1BjmzRQV8RHOJ5klJ_tZa_eg/edit?usp=sharing) bellow the agenda items. Avoid using affiliations, just use initials of members
+2. If there's someone on the call who did not added their name, add it yourself in the Google doc
+  
+After the Call
+
+3. Syntetize notes and mirror these notes in  the GH discussions dedicated entry as a new comment for those who can't access google
+   
+## Additional Training
 
 If it's your first time taking on one of these roles in an open source project, don’t worry—we’re all learning together! This free course on [Leading High-Performance Working Group Meetings](https://training.linuxfoundation.org/training/leading-high-performance-working-group-meetings-lfc120/) can help beginners navigate through these roles.
 
