@@ -100,7 +100,7 @@ Pre-Call (5-4 days in advance)
 
 During the Call
 
-3. Welcome Atendees and invite tehm to write their names in the Google Doc
+3. Welcome Atendees and invite them to write their names in the Google Doc
 4. Go through Agenda Topics
 5. Assign the roles for the next call
 6. Keep teh conversation on track
