@@ -9,13 +9,6 @@ Developer Relations Foundation is a community-driven project, with no funding in
 
 At this point, part of the community calls are being used as Open Office Hours to reach community consensus on the foundation's next steps and governance process. People can access the APAC, EMEA, and AMER calls to get involved [here](https://github.com/DevRel-Foundation#community-calls).
 
-There is also a brief [survey](https://discord.com/channels/1255563562449899573/1255564574380261426/1273351313001943172) that allows people to:
-
-- Express interest in getting more involved in the Foundation formation and how
-- Review and give feedback on the [FAQs]((https://github.com/DevRel-Foundation#faq)) and [challenges](https://github.com/DevRel-Foundation/governance/blob/main/challenges.md)
-- Express preferences for how and when the Foundation may communicate with you
-
-
 <details>
   <summary>
     <strong>🧭 Volunteer Steering Committee Member Responsibilities </strong>
