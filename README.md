@@ -112,7 +112,7 @@ Pre-Call (8-6 days in advance)
 6. Copy content within `TEMPLATE - YYYY-MM-DD`
 7. Paste bellow `Next Meeting`section
 8. Edit brackets' info [  ]
-9. Announce the GH discussion via Discord #📆weekly-calls channel using @here tag
+9. Announce the GH discussion via Discord #📆weekly-calls channel using @everyone tag
 10. Announce via community Mailing List (community@lists.dev-rel.org) https://lists.dev-rel.org/g/community
 11. Ping the Moderator when work is finished
 
