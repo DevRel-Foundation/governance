@@ -99,7 +99,7 @@ During the Call
 6. Keep teh conversation on track
 7. Close the call on time
 
-  
+
 ## Crier
 
 Pre-Call (8-6 days in advance)
@@ -130,5 +130,17 @@ After the Call
 ## Additional Training
 
 If it's your first time taking on one of these roles in an open source project, don’t worry—we’re all learning together! This free course on [Leading High-Performance Working Group Meetings](https://training.linuxfoundation.org/training/leading-high-performance-working-group-meetings-lfc120/) can help beginners navigate through these roles.
+
+</details>
+
+
+<details>
+  <summary>
+<strong>📚 How to volunteer to be a moderator, scribe, or crier?</strong>
+</summary>
+  
+- Go to Discussions: https://github.com/DevRel-Foundation/governance/discussions
+- Leave a comment in the first meeting note issue you see, expressing your interest in volunteering for any of these roles for an upcoming meeting
+- The project manager will reach out to confirm your availability and assign you for the next call
 
 </details>
