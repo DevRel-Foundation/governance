@@ -80,8 +80,8 @@ Anyone can volunteer to take on any of these roles for upcoming community calls.
   <summary>
     <strong> 📚 DRF Community Calls Checklists</strong>
   </summary>
-
-
+  
+All participants, including the moderator, crier, and scribe, must be familiar with and agree to follow the [code of conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md) and [antitrust policies](https://www.linuxfoundation.org/legal/antitrust-policy) when engaging in DRF activities
 ## Moderator 
 When running a community call, please ensure you go through the following checklist:
 
