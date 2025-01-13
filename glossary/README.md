@@ -16,10 +16,7 @@ A Contributor may become a Committer by a majority approval of the existing Comm
 Is the shared workspace where participants can contribute to documents, designs, or other resources. Everyone can track changes, suggest improvements, and provide feedback,
 ensuring the community can work together openly while staying aligned.
 
-- Groups.io: The mailing list system that the Developer Relations Foundation uses to manage email-based communication within the community. It acts as a central hub for sharing updates,
-- documenting DRF wiki, viewing the DRF meeting calendars, and facilitating discussions across working groups and the broader community. Groups.io is integrated with LFX, allowing seamless
-- management of the platform, scheduling meetings specific for each working group, community calls and assigning moderator roles to manage meeting settings. This setup empowers each group
-- to self-organize and host calls independently and decentralized, without requiring LF staff members to participate in every session.
+- Groups.io: The mailing list system that the Developer Relations Foundation uses to manage email-based communication within the community. It acts as a central hub for sharing updates, documenting DRF wiki, viewing the DRF meeting calendars, and facilitating discussions across working groups and the broader community. Groups.io is integrated with LFX, allowing seamless management of the platform, scheduling meetings specific for each working group, community calls and assigning moderator roles to manage meeting settings. This setup empowers each group to self-organize and host calls independently and decentralized, without requiring LF staff members to participate in every session.
 
 - Groups.io Wiki: A set of pages within Groups.io used by the Developer Relations Foundation to store and organize key information about its working groups, progress, processes, and community activities.
 
@@ -43,8 +40,7 @@ The cadence and times are flexible and can be adjusted based on participant requ
 
 - Working Group Charter: theme-specific living document that outlines the scope, strategic goals, and operations for a specific working group. Provides a framework to ensure that the group’s activities align with DRF mission. 
 
-- Working Group: A focused team under DRF formed to tackle particular issues that require specialized attention. While WGs operate independently, they report back to the Steering Committee to promote cross-awareness between
-work groups and ensure ongoing efforts of different teams are aligned with the foundation’s mission. Working groups are ad hoc, and they will be codified in the charter once they complete their charters.
+- Working Group: A focused team under DRF formed to tackle particular issues that require specialized attention. While WGs operate independently, they report back to the Steering Committee to promote cross-awareness between work groups and ensure ongoing efforts of different teams are aligned with the foundation’s mission. Working groups are ad hoc, and they will be codified in the charter once they complete their charters.
 
 - Working Group Manager: A role under a working group responsible for the moderation and community management of the WG.
 
