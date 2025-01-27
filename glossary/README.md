@@ -5,10 +5,10 @@ This glossary establishes a common understanding of terms and roles used within 
 
 - Committer: Committers are Contributors who have earned the ability to modify (“commit”) source code, documentation or other artifacts in the DRF project’s repository in GitHub
 
-- Contributor: Contributors include anyone in the community that contributes code, documentation, or other artifacts to DRF project’s repository in the shape of a Pull Request (PR).
+- Contributor: Contributors include anyone in the community who contributes code, documentation, or other artifacts to DRF project’s repository in the shape of a Pull Request (PR).
 A Contributor may become a Committer by a majority approval of the existing Committers. A Committer may be removed by a majority approval of the other existing Committers.
 
-- Community Calls: bi-weekly meetings for participants to provide progress updates on working group activities. Topics and themes for each call are selected on a first-come, first-served basis.
+- Community Calls: open weekly meetings for participants to provide progress updates on working group activities and non-working group activities. Topics and themes for each call are selected on a first-come, first-served basis.
 
 - Discord: The platform that the Developer Relations Foundation uses for real-time chat discussions within the community.
 
@@ -20,9 +20,9 @@ ensuring the community can work together openly while staying aligned.
 
 - Groups.io Wiki: A set of pages within Groups.io used by the Developer Relations Foundation to store and organize key information about its working groups, progress, processes, and community activities.
 
-- LFX Project Control Center: Platform used by Linux Foundation to simplify and centralize the management of tools and operations for open collaborative projects under its umbrella, including the Developer Relations Foundation (DRF). The platform enables LF project managers and DRF community managers to efficiently schedule virtual meetings and manage mailing lists in a standardized, secure environment. For more information visit the official documentation. Tools
+- LFX Project Control Center: Platform used by Linux Foundation to simplify and centralize the management of tools and operations for open collaborative projects under its umbrella, including the Developer Relations Foundation (DRF). The platform enables LF project managers and DRF community managers to efficiently schedule virtual meetings and manage mailing lists in a standardized, secure environment. For more information visit the [official documentation](https://docs.linuxfoundation.org/lfx/project-control-center).
 
-- Main Charter: high-level living document that outlines the purpose and structure, of the foundation.
+- Main Charter: The high-level living document that outlines the purpose and structure, of the foundation.
 
 - Manager’s Coffee Chats: Informal 15-minute zoom calls for managers assigned to working groups to connect with peers. These sessions provide a space for peer support and addressing questions in a
 casual setting. Participation is optional, and while Steering Committee members or LF staff may occasionally join, their presence is not mandatory. Anyone in the coffee chat can take the initiative to moderate the discussion if needed. There are two coffee chats per week, scheduled in two different time zones to accommodate global participants. 
@@ -30,7 +30,7 @@ The cadence and times are flexible and can be adjusted based on participant requ
 
 - Governance: A set of processes that guide operations within the foundation. Processes
 
-- Observers: Individuals interested in the foundation’s activities but with minimal engagement in its working groups.  What minimal engagement means is to be determined by each working group. Roles 
+- Observers: Individuals interested in the foundation’s activities but with minimal engagement in its working groups.  What minimal engagement means is to be determined by each working group.
 
 - Pull Request: A pull request is a way to suggest changes to the DRF collaborative project, whether it’s related to content, design, or code. Instead of editing the original document or artifact directly, you make a copy, improve it, and then ask the group to review your changes. A pull request lets everyone see what you’ve changed, give feedback, and decide if the updates should be added to the original in an open way asking for permission to merge your edits into the main work.
 
