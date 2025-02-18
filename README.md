@@ -1,61 +1,154 @@
 >[!NOTE]
-> Work-in-progress document. People can contribute to its content by submitting a Pull Request or raising an Issue
-> 
-> There is a work-in-progress Frequently Asked Questions document that provides further details about the model, progress, and scope of the Developer Relations Foundation's formation. To learn more, please visit our FAQ section [here](https://github.com/DevRel-Foundation#faq).
+> There is a Frequently Asked Questions document that provides further details about the model, progress, and scope of the Developer Relations Foundation's formation. To learn more, please visit our FAQ section [here](https://github.com/DevRel-Foundation#faq).
 
-# Developer Relations Foundation Governance
+# Developer Relations Foundation Governance Playbook
 
-Developer Relations Foundation is a community-driven project, with no funding involved. This repo was created  with the aim of helping community participants better understand how DevRel Foundation operates. 
+Developer Relations Foundation is a community-driven project, with no funding involved. This README documents the official DRF Playbook to understand how the Developer Relations Foundation operates and is structured. While the general Charter provides a general overview of the project’s structure and governance, this document covers specific operational details that ensure smooth participation and collaboration. It includes documentation on the DRF community structure, roles, and responsibilities, communication channels, regular meetings, and processes to submit new proposals and start or continue discussions.
 
-At this point, part of the community calls are being used as Open Office Hours to reach community consensus on the foundation's next steps and governance process. People can access the APAC, EMEA, and AMER calls to get involved [here](https://github.com/DevRel-Foundation#community-calls).
+## Terminology
 
+This [Developer Relations Foundation Glossary](https://github.com/DevRel-Foundation/governance/tree/main/glossary) establishes a common understanding of terms and roles used within the Developer Relations Foundation
+
+## Community Structure 
+
+The work within the DRF Community happens across a variety of different groups with a Steering Committee to oversee DRF operations, but day-to-day work happens in our Working Groups
+
+### 1️⃣ Steering Committee Structure
 <details>
   <summary>
-    <strong>🧭 Volunteer Steering Committee Member Responsibilities </strong>
+    <strong>🧭 Steering Committee Elections</strong>
   </summary><br />
-The Volunteer Steering Committee is comprised of the initial group of individuals, all tenured Developer Relations and Developer Marketing leaders, who connected over the shared vision of creating a foundation.
+  Steering Committee Elections is an ongoing discussion looking for community input and is available in our [DRF forum](https://github.com/DevRel-Foundation/governance/discussions/93). As the Developer Relations Foundation community progresses in defining a Steering Committee Election Process and preparing for future elections, the current Steering Committee, composed of five members, is looking to fill two vacant seats required to meet the necessary number of representatives to meet Linux Foundation Project standards and move the foundation to fully form.
+  
+The current Steering Committee will serve until new elections are held, expected by November 2025.
 
-The primary responsibilities of the Volunteer Steering Committee are:
+</details>
+<details>
+  <summary>
+    <strong>🧭 Steering Committee Representatives</strong>
+  </summary><br />
+As the Developer Relations Foundation community moves forward in defining a Steering Committee Election Process and preparing for future elections, the current Steering Committee, composed of five members, and looking to fill the two vacant seats. 
+The current Steering Committee will serve until new elections are held, expected by November 2025.
+
+---
+  
+| Name | Affiliation | DRF Server Discord Handle | 
+| --- | --- | --- |
+| [Phil Leggetter](https://www.linkedin.com/in/leggetter/) | Hookdeck | @leggetter |
+| [Katie Miller](https://www.linkedin.com/in/kmillrunner/) | Independent | @katiemillersheher_91737 |
+| [Stacey Kruczek](https://www.linkedin.com/in/staceykruczek/) | Aerospike | @ssk_14 |
+| [Jonathan LeBlanc](https://www.linkedin.com/in/jcleblanc/) | TraceLink | Discord Handle |
+| [Wesley Faulkner](https://www.linkedin.com/in/wesley83/) | Independent | @wesleyf83 |
+| Person 6 | | Affiliation | @handle_name |
+| Person 7 | | Affiliation | @handle_name |
+
+---
+
+People can reach our Steering Committe anytime by using `@steering-committee` tag in Discord or sending an email to `steering-committee (at) dev-rel.org`
+  
+ </details>
+<details>
+  <summary>
+    <strong>🧭 Steering Committee Responsibilities</strong>
+  </summary><br />
+The Steering Committee is comprised of the initial group of individuals, all tenured Developer Relations and Developer Marketing leaders, who connected over the shared vision of creating a foundation.
+
+To date, their primary Developer Relations Foundation (DRF) Steering Committee (SC)  responsibilities include:
+
+- Collecting input on priorities and encouraging community involvement to advance processes and frameworks. This includes forming and overseeing working groups to address specific areas of interest
+- Leading and facilitating community calls across various time zones (AMER, EMEA, and APAC) to foster open discussions, share updates, and gather feedback from community and working group participants
+- Overseeing project management and operational tasks such as public relations, website development, repo documentation and communications
+
+The Developer Relations Foundation (DRF) Steering Committee achieved milestones are:
 
 - Established the initial charter and governance model that contributed to the LF's "intent to form" commitment
 - Collect input on priorities and interest in getting involved to move forward on processes, policies, and frameworks that will be driven by working groups, as well as forming the initial working groups
-- Internal project management and operations, including PR, community, website development, and communications
+- Initiated internal project management and operations, including PR, community, website development, and communications
 
 Out of the working groups, we anticipate recommendations on governance that will include how to elect Foundation leadership moving forward. At that time, any leadership roles we play (if at all) will be determined through the established election processes.
 
 
   </details>
 
+### 2️⃣ Working Group Structure
 
-## Our Playbook - Operational Guidelines
+Working groups were created to address the different challenges that this community put together and discussed during the 2024 community calls and open survey. Each WG operates independently and is bound by its own charter, which specifies the role election process, 
+communication channels, rotations, and more. However, all WGs should have at least the following roles: Managers (Project and Community management roles) and Participants
 
-The DRF Playbook serves as a hands-on resource for the community. While the Charter provides a general overview of the project’s structure and governance, the Playbook covers specific operational details that ensure smooth participation and collaboration. It includes guidelines on how community participants can submit new proposals, where and how these proposals are discussed via community calls, and the community calls roles and responsibilities.
+<details>
+  <summary>
+    <strong>📊 Metrics and Reporting Working Group</strong>
+  </summary><br />
 
-### DRF Community Calls
+Get Involved: https://github.com/DevRel-Foundation/wg-metrics-reporting/
+
+</details>
+<details>
+  <summary>
+    <strong>🧠 Innovation and Emerging Trends Working Group</strong>
+  </summary><br />
+  
+Get Involved: https://github.com/DevRel-Foundation/wg-innovation-emerging-trends/pull/2
+
+</details>
+
+<details>
+  <summary>
+    <strong>🎓 Career Support Working Group</strong>
+  </summary><br />
+
+Get Involved: https://github.com/DevRel-Foundation/
+
+</details>
+
+<details>
+  <summary>
+    <strong>🏛️ Structure and Organization Working Group</strong>
+  </summary><br />
+
+Get Involved: https://github.com/DevRel-Foundation/wg-structure-organization/
+
+</details>
+<details>
+  <summary>
+    <strong>📚 Resource Aggregation Working Group</strong>
+  </summary><br />
+  
+Get Involved: https://github.com/DevRel-Foundation/wg-resource-aggregation/
+
+</details>
+
+<details>
+  <summary>
+    <strong>🙋 Community Engagement Support Working Group
+</strong>
+  </summary><br />
+
+Get Involved: https://github.com/DevRel-Foundation/wg-community-engagement-support/pull/8/files
+
+</details>
+
+## Communication Channels
+
+Please explore [our glossary](https://github.com/DevRel-Foundation/governance/tree/main/glossary) to learn all our official communication channels
+
+## Community Calls and WG Meetings
+
+If Time zones permit, people engaging in DRF community are expected to participate in the DRF Community Calls and any other meetings relevant to their working group. This group hosts community calls every other week. People can check the times and upcoming calls in the Groups.io calendar: https://lists.dev-rel.org/g/community/calendar
+<details>
+  <summary>
+    <strong> 📚 About Community Calls </strong>
+  </summary>
 
 This group hosts community calls every other week. People can check the times and upcoming calls in the Groups.io calendar: https://lists.dev-rel.org/g/community/calendar
 
-- AMER DevRel Found Community Call
+- AMER & EMEA DevRel Found Community Call
 - APAC & EMEA DevRel Found Community Call
 
 These calls serve two main purposes:
 
 1. A neutral and safe space to discuss topics important to the community, share ideas, and ask questions aligned with the mission of the DevRel Foundation. If you have a story to share, the recommended process is to open a new issue via GitHub Discussions (more info below) with the topic in mind. This allows the call moderators to bring these topics into sessions, initiate community discussions, and reach a consensus, potentially leading to a concrete action item (e.g., should this become a working group or be included in the foundation, etc.).
 2. Open Office Hours to reach community consensus on the foundation's next phases and to address questions and blockers on DevRel Challenges and Frequently Asked Questions.
-
-<details>
-  <summary>
-    <strong> 📚 How to File Proposals and Discussion Topics </strong>
-  </summary>
-
-The community can file proposals via the DRF Governance repo by [opening a new entry in the GitHub Discussions Forum](https://github.com/DevRel-Foundation/governance/discussions/new/choose).
-
-Also, whether you are new to the DRF community calls or a regular participant, you can add your discussion topics as a comment in one of the [meeting note discussions](https://github.com/DevRel-Foundation/governance/discussions/categories/meeting-notes) or bring them up during the call.
-
-People can also share DevRel use cases, best practices, frameworks, and more by [opening a new Idea in GitHub Discussions](https://github.com/devrel-foundation/governance/discussions/new?category=ideas), which serves as the Foundation’s public forum. 
-
-We are always looking for 5-10 minute presentations in future community calls to spark discussion with attendees and asynchronously.
-
 </details>
 <details>
   <summary>
@@ -72,8 +165,6 @@ Anyone can volunteer to take on any of these roles for upcoming community calls.
 |**Moderator**| (1) Leads the discussion by going through agenda items, ensuring each topic receives the time it needs, and keeping conversations focused AND (2) Opens the call by inviting participants to add their names to the agenda, make group introductions and introduce the concept of Chatham House Rules, LF Antitrust Policies and the DRF Code of Conduct  | Volunteering as a Moderator is a great way to develop facilitation skills and play an essential role in shaping community discussions. The Moderator must be on the call while the Crier can skip the call | This person attended some previous community calls and is familiarized with the format |
 |**Scribe**| (1) Captures and summarizes key points during the call AND (2) share these notes with the community in the dedicated GitHub Discussion afterward| Serving as a Scribe builds attention to detail and provides a vital resource for transparent communication within the community | This person can be new to the community but should have some experience of taking notes in meetings |
 |**Crier**| (1) Keeps the community informed by announcing the agenda one week in advance in the DRF community mailing list and Discord channel| As the Crier, you enhance community engagement and ensure members are aware of discussion topics and opportunities to participate. The Moderator must be on the call, while the Crier can skip the call | This person can have no experience and be a newcomer |
-
-</details>
 
 </details>
 <details>
@@ -133,10 +224,28 @@ If it's your first time taking on one of these roles in an open source project, 
 
 </details>
 
+## Processes
+
+Operational guidelines on how community participants can submit new proposals, where and how these proposals are discussed via community calls, and the community calls roles and responsibilities.
 
 <details>
   <summary>
-<strong>📚 How to volunteer to be a moderator, scribe, or crier?</strong>
+    <strong> 📚 How to File Proposals and Discussion Topics </strong>
+  </summary>
+
+The community can file proposals via the DRF Governance repo by [opening a new entry in the GitHub Discussions Forum](https://github.com/DevRel-Foundation/governance/discussions/new/choose).
+
+Also, whether you are new to the DRF community calls or a regular participant, you can add your discussion topics as a comment in one of the [meeting note discussions](https://github.com/DevRel-Foundation/governance/discussions/categories/meeting-notes) or bring them up during the call.
+
+People can also share DevRel use cases, best practices, frameworks, and more by [opening a new Idea in GitHub Discussions](https://github.com/devrel-foundation/governance/discussions/new?category=ideas), which serves as the Foundation’s public forum. 
+
+We are always looking for 5-10 minute presentations in future community calls to spark discussion with attendees and asynchronously.
+
+</details>
+
+<details>
+  <summary>
+<strong>📚 How to volunteer to be a moderator, scribe, or crier for a Community Call?</strong>
 </summary>
   
 - Go to Discussions: https://github.com/DevRel-Foundation/governance/discussions
