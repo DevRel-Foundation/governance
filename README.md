@@ -5,11 +5,16 @@
 
 Developer Relations Foundation is a community-driven project, with no funding involved. This README documents the official DRF Playbook to understand how the Developer Relations Foundation operates and is structured. While the general Charter provides a general overview of the project’s structure and governance, this document covers specific operational details that ensure smooth participation and collaboration. It includes documentation on the DRF community structure, roles, and responsibilities, communication channels, regular meetings, and processes to submit new proposals and start or continue discussions.
 
-## Terminology
+## ✍️ Terminology
 
 This [Developer Relations Foundation Glossary](https://github.com/DevRel-Foundation/governance/tree/main/glossary) establishes a common understanding of terms and roles used within the Developer Relations Foundation
 
-## Community Structure 
+## 🎯 Introduction to DRF Phased Approach for Continuous Progress
+
+DRF follows an iterable approach to organizing and managing the many community-driven initiatives important to the DevRel Profession. This process is designed to ensure that the DevRel Foundation isn’t led by the assumptions of the steering committee as to what the important topics to tackle are but instead charged with the stewardship of collecting input, creating processes to organize that data, and shepherding solutions to real problems. Phased Plan Documentation can be found [here](https://github.com/DevRel-Foundation/governance/blob/main/drf_phases_plan.md)
+
+Milestones achieved to date and text steps can be found in the [Working Group Cohort Project Board]()
+## 🌳 Community Structure 
 
 The work within the DRF Community happens across a variety of different groups with a Steering Committee to oversee DRF operations, but day-to-day work happens in our Working Groups
 
@@ -73,7 +78,9 @@ Out of the working groups, we anticipate recommendations on governance that will
 ### 2️⃣ Working Group Structure
 
 Working groups were created to address the different challenges that this community put together and discussed during the 2024 community calls and open survey. Each WG operates independently and is bound by its own charter, which specifies the role election process, 
-communication channels, rotations, and more. However, all WGs should have at least the following roles: Managers (Project and Community management roles) and Participants
+communication channels, rotations, and more. However, all WGs should have at least these two following roles: Managers (Project and Community management roles) and Participants.
+
+> General milestones achieved to date and text steps for working groups become fully operational can be found in the [Working Group Cohort Project Board](https://github.com/orgs/DevRel-Foundation/projects/7/views/1)
 
 <details>
   <summary>
@@ -88,7 +95,7 @@ Get Involved: https://github.com/DevRel-Foundation/wg-metrics-reporting/
     <strong>🧠 Innovation and Emerging Trends Working Group</strong>
   </summary><br />
   
-Get Involved: https://github.com/DevRel-Foundation/wg-innovation-emerging-trends/pull/2
+Get Involved: https://github.com/DevRel-Foundation/wg-innovation-emerging-trends/
 
 </details>
 
@@ -124,7 +131,7 @@ Get Involved: https://github.com/DevRel-Foundation/wg-resource-aggregation/
 </strong>
   </summary><br />
 
-Get Involved: https://github.com/DevRel-Foundation/wg-community-engagement-support/pull/8/files
+Get Involved: https://github.com/DevRel-Foundation/wg-community-engagement-support/
 
 </details>
 
