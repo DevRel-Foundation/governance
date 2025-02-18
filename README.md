@@ -253,3 +253,22 @@ We are always looking for 5-10 minute presentations in future community calls to
 - The project manager will reach out to confirm your availability and assign you for the next call
 
 </details>
+<details>
+  <summary>
+    <strong>📚 How to reach Steering Committee Representatives?</strong>
+  </summary><br />
+  
+People can reach our Steering Committe anytime by using `@steering-committee` tag in Discord or sending an email to `steering-committee (at) dev-rel.org`
+
+</summary>
+<details>
+  <summary>
+    <strong>📚 How to reach Linux Foundation Staff?</strong>
+  </summary><br />
+  Since DRF is hosted under the Linux Foundation, the project has some services and staff available for the community:
+
+  - Project Management Support: Please reach out to our Project Manager, Ana Jiménez Santamaría -- asantamaria (at) linuxfoundation (dot) org -- @anajimenezsant in Discord
+  - Legal Support: Please notify our DRF Project Manager to open a ticket on LF Staff Legal Support
+  - LFX Project Control Center Support: Please open a ticket in the [LFX Services Requests - LFX PCC Project Support](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/4?requestGroup=105)
+
+</details>
