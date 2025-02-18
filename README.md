@@ -260,7 +260,7 @@ We are always looking for 5-10 minute presentations in future community calls to
   
 People can reach our Steering Committe anytime by using `@steering-committee` tag in Discord or sending an email to `steering-committee (at) dev-rel.org`
 
-</summary>
+</details>
 <details>
   <summary>
     <strong>📚 How to reach Linux Foundation Staff?</strong>
