@@ -3,7 +3,7 @@
 - Tools and Resources for Working Group Managers
     - Resources
     - Best Practices
-    - Articles and Literature
+    - Reading List
     - Tools
 - How to Seek for Help
 - Onboarding Checklist
@@ -22,7 +22,10 @@ Effectively managing a working group within the DevRel Foundation requires acces
 
 Managing open collaborative projects without prior experience in open source principles can be overwhelming and challenging. It requires a cultural shift and an understanding of transparent governance, inclusive decision-making, and community-driven development.
 
-Everyone has to take their first step into open source at some point. Learning about open source culture is an ongoing process, and anyone can gain knowledge and experience over time. Don’t be afraid of making mistakes—openness and iteration are key aspects of the ecosystem. If you face difficulties, don’t hesitate to reach out to the DRF Steering Committee or Linux Foundation staff for guidance.
+Everyone has to take their first step into open source at some point. Learning about open source culture is an ongoing process, and anyone can gain knowledge and experience over time. Don’t be afraid of making mistakes—openness and iteration are key aspects of the ecosystem.
+
+
+> 💡If you face difficulties, don’t hesitate to reach out to the DRF Steering Committee or Linux Foundation staff for guidance.
 
 To help you navigate this effectively, here are a few best practices for your role as a WG manager.
 
@@ -31,9 +34,26 @@ To help you navigate this effectively, here are a few best practices for your ro
 - Ensure your group maintains transparency by documenting progress and work on GitHub repo via, issues and Pull Requests
 - Whenever possible, mirror announcements, updates, or key discussions not only on Discord, but also on the WG mailing list or GitHub Discussions (available in the governance repo)
 - Encourage participation by establishing clear roles and responsibilities within the working group an document it in the WG Charter
-- Ask for help when needed. Check *How to Seek for help* section below 
+- Ask for help when needed. Check *How to Seek for help* section below
 
-### 📑 Articles and Literature
+Additionally, for those with no experience in open source communities and typical contribution processes, we recommend following the [Principles of Authentic Participation](https://authentic-participation.readthedocs.io/):
+
+- Start Early
+- Put the Community First
+- Start With Listening
+- Continue by Participating
+- Have Transparent Motivations
+- Promote Respectful Behavior
+- End Gracefully
+  
+The TODO Group community created a version tailored to the context of employee open source engagement. However, much of this content is also applicable to regular individual open source engagement. You can read the guide [here](https://todogroup.org/resources/guides/employee-open-source-engagement/).
+
+> 💡 The Principles of Authentic Participation can also serve as a framework to re-use for working group managers to share with WG participants who are on the same journey of learning how to contribute to open collaborative projects like DRF. Additionally, they can be used to create onboarding templates to help new contributors get started
+
+> ✍️ If you choose to use these principles, please note that they are licensed under CC-BY 4.0, which requires attribution to the original source. For example: *This guide is based on the Principles of authentic participation which were created and discussed at Sustain 2020*)
+
+
+### 📑 Reading List
 
 Here are a few articles to help you navigate open source and community project management:
 
@@ -41,6 +61,8 @@ Here are a few articles to help you navigate open source and community project m
 - [Participating in Open Source Communities - How open source projects are managed?](https://www.linuxfoundation.org/resources/open-source-guides/participating-in-open-source-communities?hsLang=en)
 - [The Four Opens - OpenInfra Foundation's Philosophy on Open Source](https://openinfra.org/four-opens/)
 - [The Four Opens - Open Community by OpenInfra Foundation](https://opendev.org/openinfra/four-opens/src/branch/master/doc/source/opencommunity.rst)
+- [Principles of Authentic Participation - Sustain OS](https://authentic-participation.readthedocs.io/)
+- [Employee Open Source Engagement](https://todogroup.org/resources/guides/employee-open-source-engagement/)
 
 
 ### 🛠 Tools
