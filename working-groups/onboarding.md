@@ -31,6 +31,7 @@ To help you navigate this effectively, here are a few best practices for your ro
 - Ensure your group maintains transparency by documenting progress and work on GitHub repo via, issues and Pull Requests
 - Whenever possible, mirror announcements, updates, or key discussions not only on Discord, but also on the WG mailing list or GitHub Discussions (available in the governance repo)
 - Encourage participation by establishing clear roles and responsibilities within the working group an document it in the WG Charter
+- Ask for help when needed. Check *How to Seek for help* section below 
 
 ### 📑 Articles and Literature
 
