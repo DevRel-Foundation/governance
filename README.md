@@ -75,6 +75,8 @@ Out of the working groups, we anticipate recommendations on governance that will
 
   </details>
 
+![DRF_WF_SC](https://github.com/user-attachments/assets/0a754ca8-4c5f-4134-83e5-797ce5320925)
+
 ### 2️⃣ Working Group Structure
 
 Working groups were created to address the different challenges that this community put together and discussed during the 2024 community calls and open survey. Each WG operates independently and is bound by its own charter, which specifies the role election process, 
