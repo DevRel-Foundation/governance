@@ -2,13 +2,17 @@
 
 > The purpose of having a charter for the Developer Relations Foundation is to help people understand its mission and scope. The DevRel Foundation Charter is a living document, allowing the community to propose changes and updates as the project evolves.
 
-Adopted June 3, 2024
+Adopted July 9, 2025
 
 :toc:
 
 . **Mission and Scope of the Project** 
 .. The mission of the Project is to elevate the professional practice of developer relations and increase awareness of it as a driver of business value. 
 .. The scope of the Project includes collaborative development under the Project License (as defined herein) supporting the mission, including definitions, frameworks, and the creation and codification of other artifacts that aid in the mission of the open collaboration project. 
+. **Definitions**
+.. Participant: A Developer Relations Foundation Participant (“Participant”) is any individual who has formally registered with the Foundation, subscribes to its communications, and actively participates in its initiatives, working groups, events, or community activities. DRF Participants are eligible to vote in Steering Committee elections and may stand for elected positions, subject to the eligibility requirements outlined in this Charter.
+.. Manager: A Developer Relations Foundation Manager (“Manager”) is an individual appointed or recognized by the Steering Committee to lead or coordinate a specific initiative, working group, event, or other Foundation-sponsored activity. Managers are responsible for facilitating collaboration, reporting progress to the SC, and ensuring that their assigned efforts align with the mission and policies of the Developer Relations Foundation. Managers may be volunteers or nominated by the community, and their roles and responsibilities will be published in the relevant working group or project documentation. 
+.. Maintainer: A Maintainer is a Contributor who has been granted ongoing responsibility for the quality and direction of a specific repository, documentation set, or project area within the Developer Relations Foundation. Maintainers review and approve contributions, ensure adherence to project standards, and help shape the technical or strategic roadmap for their domain. Maintainers are typically selected based on demonstrated leadership, subject matter expertise, and sustained contribution, and their role may be defined in more detail in the project’s CONTRIBUTING file.
 . **Steering Committee** 
 .. The Steering Committee (the “SC”) will be responsible for all oversight of the open collaboration Project.  
 .. The SC voting members are initially the Project’s Committers. At the inception of the project, the Committers of the Project will be set forth within the “CONTRIBUTING” file within the Project’s code repository. The SC may choose an alternative approach for determining the voting members of the SC, and any such alternative approach will be documented in the CONTRIBUTING file.  Any meetings of the Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.  
@@ -16,7 +20,7 @@ Adopted June 3, 2024
 ... Contributors include anyone in the community that contributes code, documentation, or other artifacts to the Project;  
 ... Committers are Contributors who have earned the ability to modify (“commit”) source code, documentation or other artifacts in a project’s repository; and
 ... A Contributor may become a Committer by a majority approval of the existing Committers. A Committer may be removed by a majority approval of the other existing Committers.
-... A Collaborator is a member of the community with read and write access to a repository who has been invited to contribute by the SC. 
+... A Collaborator is a participant of the community with read and write access to a repository who has been invited to contribute by the SC. 
 .. Participation in the Project through becoming a Contributor and Committer is open to anyone so long as they abide by the terms of this Charter.  
 .. The SC may (1) establish workflow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Contributors to Committer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, and Committers, and create new roles, and publicly document any SC roles,  as it sees fit. 
 .. The SC may elect a SC Chair, who will preside over meetings of the SC and will serve until their resignation, term limit,  or replacement by the SC.**   
@@ -32,13 +36,38 @@ Adopted June 3, 2024
 ... published in the CONTRIBUTING file) and coordinating with the series manager of the Project (as provided for in the Series Agreement, the “Series Manager”) to resolve matters or concerns that may arise as set forth in Section 7 of this Charter; 
 ... discussions, seeking consensus, and where necessary, voting on matters relating to the open collaboration project; and 
 ... coordinating any marketing, events, or communications regarding the Project. 
+. **Steering Committee Membership & Election Process** 
+.. The Steering Committee (SC) shall consist of seven (7) voting members:
+... Five (5) Elected seats chosen by the Developer Relations Foundation (DRF) Participants; and
+... Two (2) Appointed seats chosen by the sitting SC to maintain diversity of region, gender, and industry.
+..Eligibility: Any natural person may stand for an elected seat.  Candidates who actively engage with the DRF community are especially encouraged to run, including those who:
+... Serve as a DRF *Manager* or *Participant*;
+... Act as a *Maintainer* or make material contributions to a DRF GitHub repository; or
+... Host a DRF-endorsed local event.
+.. Term Length & Staggering: The normal term of service is two (2) full calendar years. 
+... Terms begin on November 1st following election/appointment and end October 31st of the second year.
+... Staggering pattern
+.... Even-numbered years: Elect two (2) elected seats and appoint one (1) seat.
+.... Odd-numbered years: Elect three (3) elected seats and appoint one (1) seat.
+.. Annual Timeline
+... Call for candidates: September 1st - 10th, candidates complete a web form to appear on the ballot. 
+... Voting period: September 11th - 31st, voting process, one ballot per Developer Relations Foundation Participant.
+... Result announcement: October 1st, elected & appointed candidates notified.
+... On-boarding: October, shadow meetings, access provisioning.
+... Term start: November 1st, new SC members seated.
+.. Appointment Process
+... The sitting SC selects appointed members during August, using a simple-majority vote, from the same candidate pool or other qualified community members.
+.. Mid-term Vacancies
+... > 6 months left: the SC may appoint a replacement to finish the term.
+... ≤ 6 months left: seat remains vacant until the next regular election/appointment.
 . **Voting** 
-.. While the Project aims to operate as a consensus-based community, if any decision requires a vote to move the Project forward, the voting members of the SC or Working Group, as applicable, will vote on a one vote per voting member basis and a two-thirds vote of all Members of the SC or Working Group, as applicable, will be required for the vote to pass. 
+.. Except for SC elections (described above), routine SC or Working Group decisions requiring a ballot shall use one-person/one-vote, with passage requiring a simple 50% majority of all voting members.
+.. Elections for Steering Committee seats will use a ranked-choice voting method. The committee may switch to a different ranked-choice voting system or service in the future if at least five current members agree to the change.
 .. Approval of an item within a Working Group will move the item to the SC for final vote. 
-.. In the event a vote cannot be resolved by a Working Group, any voting member of the Working Group may refer the matter to the SC for assistance in reaching a resolution.  In the event a vote cannot be resolved by the SC, any voting member of the SC may refer the matter to the Series Manager for assistance in reaching a resolution. 
+.. In the event a vote cannot be resolved by a Working Group, any voting participant of the Working Group may refer the matter to the SC for assistance in reaching a resolution.  In the event a vote cannot be resolved by the SC, any voting member of the SC may refer the matter to the Series Manager for assistance in reaching a resolution. 
 . **Compliance with Policies**  
-.. This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects. Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects, including, without limitation the policies listed at https://lfprojects.org/policies/.   
-.. The SC may adopt a code of conduct (“CoC”) for the Project, which is subject to approval by the Series Manager.  In the event that a Project-specific CoC has not been approved, the LF Projects Code of Conduct listed at [https://lfprojects.org/policies ](https://lfprojects.org/policies)will apply for all Collaborators in the Project. 
+.. This Charter is subject to the Series Agreement for the Project and the Operating Agreement of LF Projects. Contributors will comply with the policies of LF Projects as may be adopted and amended by LF Projects, including, without limitation the policies listed at https://lfprojects.org/policies.   
+.. The SC may adopt a code of conduct (“CoC”) for the Project, which is subject to approval by the Series Manager.  In the event that a Project-specific CoC has not been approved, the LF Projects Code of Conduct listed at https://lfprojects.org/policies will apply for all Collaborators in the Project. 
 .. When amending or adopting any policy applicable to the Project, LF Projects will publish such policy, as to be amended or adopted, on its web site at least 30 days prior to such policy taking effect; provided, however, that in the case of any amendment of the Trademark Policy or Terms of Use of LF Projects, any such amendment is effective upon publication on LF Project’s web site. 
 .. All Collaborators must allow open participation from any individual or organization meeting the requirements for contributing under this Charter and any policies adopted for all Collaborators by the SC, regardless of competitive interests. Put another way, the Project community must not seek to exclude any participant based on any criteria, requirement, or reason other than those that are reasonable and applied on a non-discriminatory basis to all Collaborators in the Project community. 
 .. The Project will operate in a transparent, open, collaborative, and ethical manner at all times. The output of all Project discussions, proposals, timelines, decisions, and status should be made open and easily visible to all. Any potential violations of this requirement should be reported immediately to the Series Manager. 
@@ -53,10 +82,10 @@ Adopted June 3, 2024
 . **Intellectual Property Policy** 
 .. Collaborators acknowledge that the copyright in all new contributions will be retained by the copyright holder as independent works of authorship and that no contributor or copyright holder will be required to assign copyrights to the Project.  
 .. Except as described in Section 7.c., all contributions to the Project are subject to the following:  
-... Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at [http://creativecommons.org/licenses/by/4.0/).](http://creativecommons.org/licenses/by/4.0/)  
+... Documentation will be received and made available by the Project under the Creative Commons Attribution 4.0 International License (available at http://creativecommons.org/licenses/by/4.0/) 
 ... Any code contributed will be contributed and made available under a license approved as open by the Open Source Initiative. 
 ... The Project may seek to integrate and contribute back to other open source projects (“Upstream Projects”). In such cases, the Project will conform to all license requirements of the Upstream Projects, including dependencies, leveraged by the Project.  Upstream Project code contributions not stored within the Project’s main code repository will comply with the contribution process and license terms for the applicable Upstream Project. 
 .. The SC may approve the use of an alternative license or licenses for inbound or outbound contributions on an exception basis. To request an exception, please describe the contribution, the alternative open source license(s), and the justification for using an alternative open source license for the Project. License exceptions must be approved by a two-thirds vote of the entire SC.  
 .. Contributed files should contain license information, such as SPDX short form identifiers, indicating the open source license or licenses pertaining to the file. 
 . **Amendments** 
-.. This charter may be amended by a two-thirds vote of the entire SC and is subject to approval by LF Projects. 
+.. This Charter may be amended by a two-thirds vote of the entire SC and approval by LF Projects. Amendments that alter “Steering Committee Membership & Election Process” additionally require a public comment period of at least 30 days following proposal before the SC vote. 
