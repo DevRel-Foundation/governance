@@ -2,6 +2,7 @@
 
 > The purpose of having a charter for the Developer Relations Foundation is to help people understand its mission and scope. The DevRel Foundation Charter is a living document, allowing the community to propose changes and updates as the project evolves.
 
+Version 2.0
 Adopted July 9, 2025
 
 :toc:
