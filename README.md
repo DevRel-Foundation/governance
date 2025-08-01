@@ -44,8 +44,9 @@ The current Steering Committee will serve until new elections are held, expected
 | [Stacey Kruczek](https://www.linkedin.com/in/staceykruczek/) | Aerospike | @ssk_14 |
 | [Jonathan LeBlanc](https://www.linkedin.com/in/jcleblanc/) | TraceLink | Discord Handle |
 | [Wesley Faulkner](https://www.linkedin.com/in/wesley83/) | Independent | @wesleyf83 |
-| Person 6 | | Affiliation | @handle_name |
-| Person 7 | | Affiliation | @handle_name |
+| [Jayson DeLancey](https://www.linkedin.com/in/jaysondelancey/) | Semgrep | @j12y |
+| [Aditya Oberai](https://www.linkedin.com/in/adityaoberai1/) | Affiliation | @adityaoberai1
+ |
 
 ---
 
