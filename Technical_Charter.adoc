@@ -52,7 +52,7 @@ Adopted July 9, 2025
 .... Odd-numbered years: Elect three (3) elected seats and appoint one (1) seat.
 .. Annual Timeline
 ... Call for candidates: September 1st - 10th, candidates complete a web form to appear on the ballot. 
-... Voting period: September 11th - 31st, voting process, one ballot per Developer Relations Foundation Participant.
+... Voting period: September 11th - 30th, voting process, one ballot per Developer Relations Foundation Participant.
 ... Result announcement: October 1st, elected & appointed candidates notified.
 ... On-boarding: October, shadow meetings, access provisioning.
 ... Term start: November 1st, new SC members seated.
