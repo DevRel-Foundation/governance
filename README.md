@@ -18,24 +18,20 @@ Milestones achieved to date and text steps can be found in the [Working Group Co
 
 The work within the DRF Community happens across a variety of different groups with a Steering Committee to oversee DRF operations, but day-to-day work happens in our Working Groups
 
-### 1️⃣ Steering Committee Structure
+### 1️⃣ Steering Committee
 <details>
   <summary>
-    <strong>🧭 Steering Committee Elections</strong>
+    <strong>🧭 Steering Committee Overview</strong>
   </summary><br />
-  Steering Committee Elections is an ongoing discussion looking for community input and is available in our [DRF forum](https://github.com/DevRel-Foundation/governance/discussions/93). As the Developer Relations Foundation community progresses in defining a Steering Committee Election Process and preparing for future elections, the current Steering Committee, composed of five members, is looking to fill two vacant seats required to meet the necessary number of representatives to meet Linux Foundation Project standards and move the foundation to fully form.
+  The Steering Committee (SC) will consist of seven (7) voting members: Five (5) Elected seats chosen by the Developer Relations Foundation (DRF) Participants; and Two (2) Appointed seats chosen by the sitting SC to maintain diversity of region, gender, and industry.
   
-The current Steering Committee will serve until new elections are held, expected by November 2025.
+In even-numbered years, we will elect two (2) elected seats and appoint one (1) seat.
 
+In odd-numbered years, we will elect three (3) elected seats and appoint one (1) seat.
+
+Complete details on SC elections are outlined in the .[charter](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter.adoc).
 </details>
 <details>
-  <summary>
-    <strong>🧭 Steering Committee Representatives</strong>
-  </summary><br />
-As the Developer Relations Foundation community moves forward in defining a Steering Committee Election Process and preparing for future elections, the current Steering Committee, composed of five members, and looking to fill the two vacant seats. 
-The current Steering Committee will serve until new elections are held, expected by November 2025.
-
----
   
 | Name | Affiliation | DRF Server Discord Handle | 
 | --- | --- | --- |
@@ -71,7 +67,6 @@ The Developer Relations Foundation (DRF) Steering Committee achieved milestones 
 - Collect input on priorities and interest in getting involved to move forward on processes, policies, and frameworks that will be driven by working groups, as well as forming the initial working groups
 - Initiated internal project management and operations, including PR, community, website development, and communications
 
-Out of the working groups, we anticipate recommendations on governance that will include how to elect Foundation leadership moving forward. At that time, any leadership roles we play (if at all) will be determined through the established election processes.
 
 
   </details>
