@@ -25,7 +25,9 @@ The work within the DRF Community happens across a variety of different groups w
   </summary><br />
   The Steering Committee (SC) will consist of seven (7) voting members: Five (5) Elected seats chosen by the Developer Relations Foundation (DRF) Participants; and Two (2) Appointed seats chosen by the sitting SC to maintain diversity of region, gender, and industry.
   
-In November 2025, 4 new SC members will be selected: 3 through voting and 1 through appointment. Details on the election process will be shared in September 2025.
+In even-numbered years, we will elect two (2) elected seats and appoint one (1) seat.
+
+In odd-numbered years, we will elect three (3) elected seats and appoint one (1) seat.
 
 Complete details on SC elections are outlined in the .[charter](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter.adoc).
 </details>
