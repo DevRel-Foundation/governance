@@ -8,7 +8,7 @@ Before submitting a nomination, nominees should carefully review the responsibil
 
 ## Eligibility Requirements
 
-1.  Must be a member of the Developer Relations Foundation for > 1 month prior to the start of the nomination process.
+1.  Must be a participant, manager, or maintainer of the Developer Relations Foundation for > 1 month prior to the start of the nomination process.
 2.  Must have 5+ years of direct Developer Relations experience, or experience within an adjacent field.
 3.  Must have demonstrable leadership experience within the Developer Relations field, such as:
     1.  Leading complex communities, programs, and/or teams.
