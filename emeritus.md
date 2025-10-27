@@ -5,3 +5,5 @@ A list of volunteers who committed their time to help establish a scaffolding to
 - Caroline Lewko
 - Tessa Kriesel
 - Phil Leggetter
+- Katherine Miller
+- Jonathan LeBlanc
