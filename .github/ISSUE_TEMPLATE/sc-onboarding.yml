@@ -1,0 +1,53 @@
+---
+name: 'Steering Committee change'
+about: 'Change in DRF Steering Committee membership'
+labels: sc-change, governance
+---
+
+> Do not close this issue until _all_ checkboxes are completed
+
+## Steering Committee onboarding
+
+### Incoming
+<!--
+| Name | Pronouns | GitHub | Preferred email(s) |
+| --- | --- | --- | --- |
+| Jane Steering | she/her | @janesteering | jane@work.edu, jane@personal.com |
+-->
+
+### Outgoing
+<!--
+- @handle1
+- @handle2
+-->
+
+## Access & membership
+
+- [ ] Confirm meeting availability
+- [ ] Invite to **SC Discord** channel
+- [ ] Update **Discord** roles/permissions
+- [ ] Invite to **SC GitHub** team
+- [ ] Invite to **SC Google Drive** (folder + doc ownership where needed)
+- [ ] Update **listserv** permissions 
+- [ ] Update **LF portal** permissions (submit LFX service desk ticket)
+
+## Repo & website references
+> Replace `<org>` / `<repo>` with your actual org and repo names.
+
+- [ ] `DevRel-Foundation/governance`
+  - [ ] Update `README.md` SC roster section
+  - [ ] Update `EMERITUS.md` for outgoing members
+- [ ] project website
+  - [ ] Update SC page
+  - [ ] Publish announcement post
+
+## Communications
+- [ ] Share public announcement on social media
+- [ ] Ensure recurring SC meeting series has all current SC
+
+## Decommission outgoing members (effective **Nov 1** unless otherwise noted)
+- [ ] Remove from **GitHub** team
+- [ ] Remove from **SC Discord** and related roles
+- [ ] Remove from **Google Drive** & transfer any owned docs
+- [ ] Remove from **Listserv** 
+- [ ] Remove from **LF portal** permissions
