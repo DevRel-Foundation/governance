@@ -34,7 +34,7 @@ labels: sc-change, governance
 > Replace `<org>` / `<repo>` with your actual org and repo names.
 
 - [ ] `DevRel-Foundation/governance`
-  - [ ] Update `README.md` SC roster section
+  - [ ] Update `README.md` SC section
   - [ ] Update `EMERITUS.md` for outgoing members
 - [ ] project website
   - [ ] Update SC page
