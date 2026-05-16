@@ -13,7 +13,7 @@ This [Developer Relations Foundation Glossary](https://github.com/DevRel-Foundat
 
 DRF follows an iterable approach to organizing and managing the many community-driven initiatives important to the DevRel Profession. This process is designed to ensure that the DevRel Foundation isn’t led by the assumptions of the steering committee as to what the important topics to tackle are but instead charged with the stewardship of collecting input, creating processes to organize that data, and shepherding solutions to real problems. Phased Plan Documentation can be found [here](https://github.com/DevRel-Foundation/governance/blob/main/drf_phases_plan.md)
 
-Milestones achieved to date and text steps can be found in the [Working Group Cohort Project Board]()
+Milestones achieved to date and next steps can be found in the [Working Group Cohort Project Board](https://github.com/orgs/DevRel-Foundation/projects/7/views/1)
 ## 🌳 Community Structure 
 
 The work within the DRF Community happens across a variety of different groups with a Steering Committee to oversee DRF operations, but day-to-day work happens in our Working Groups
@@ -29,24 +29,29 @@ In even-numbered years, we will elect two (2) elected seats and appoint one (1) 
 
 In odd-numbered years, we will elect three (3) elected seats and appoint one (1) seat.
 
-Complete details on SC elections are outlined in the .[charter](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter.adoc).
+Complete details on SC elections are outlined in the [charter](https://github.com/DevRel-Foundation/governance/blob/main/Technical_Charter.adoc).
 </details>
+
+### Chairperson
+
+The current Steering Committee Chairperson is **Wesley Faulkner**.
+
 <details>
   
 | Name | Affiliation | DRF Server Discord Handle | 
 | --- | --- | --- |
-| [Phil Leggetter](https://www.linkedin.com/in/leggetter/) | Hookdeck | @leggetter |
-| [Katie Miller](https://www.linkedin.com/in/kmillrunner/) | Independent | @katiemillersheher_91737 |
-| [Stacey Kruczek](https://www.linkedin.com/in/staceykruczek/) | Aerospike | @ssk_14 |
-| [Jonathan LeBlanc](https://www.linkedin.com/in/jcleblanc/) | TraceLink | Discord Handle |
+| [Stacey Kruczek](https://www.linkedin.com/in/staceykruczek/) | Independent | @ssk_14 |
 | [Wesley Faulkner](https://www.linkedin.com/in/wesley83/) | Independent | @wesleyf83 |
 | [Jayson DeLancey](https://www.linkedin.com/in/jaysondelancey/) | Semgrep | @j12y |
-| [Aditya Oberai](https://www.linkedin.com/in/adityaoberai1/) | Affiliation | @adityaoberai1
+| [Arun Gupta](https://www.linkedin.com/in/arunpgupta/) | Independent | @arungupta |
+| [Divya Mohan](https://www.linkedin.com/in/divya-mohan0209/) | Independent | @divya |
+| [Tabs Fakier](https://www.linkedin.com/in/ladyofcode/) | Independent | @ladyofcode |
+| [Aditya Oberai](https://www.linkedin.com/in/adityaoberai1/) | Independent | @adityaoberai1
  |
 
 ---
 
-People can reach our Steering Committe anytime by using `@steering-committee` tag in Discord or sending an email to `steering-committee (at) dev-rel.org`
+People can reach our Steering Committee anytime by using `@steering-committee` tag in Discord or sending an email to `steering-committee (at) dev-rel.org`
   
  </details>
 <details>
@@ -147,8 +152,8 @@ If Time zones permit, people engaging in DRF community are expected to participa
 
 This group hosts community calls every other week. People can check the times and upcoming calls in the Groups.io calendar: https://lists.dev-rel.org/g/community/calendar
 
-- AMER & EMEA DevRel Found Community Call
-- APAC & EMEA DevRel Found Community Call
+- AMER & EMEA DevRel Foundation Community Call
+- APAC & EMEA DevRel Foundation Community Call
 
 These calls serve two main purposes:
 
@@ -189,10 +194,10 @@ Pre-Call (5-4 days in advance)
 
 During the Call
 
-3. Welcome Atendees and invite them to write their names in the Google Doc
+3. Welcome Attendees and invite them to write their names in the Google Doc
 4. Go through Agenda Topics
 5. Assign the roles for the next call
-6. Keep teh conversation on track
+6. Keep the conversation on track
 7. Close the call on time
 
 
@@ -206,7 +211,7 @@ Pre-Call (8-6 days in advance)
 4. Edit brackets' info [  ]
 5. Go to [google doc](https://docs.google.com/document/d/1I5dX4RbvJyt4Z2dTWsS1BjmzRQV8RHOJ5klJ_tZa_eg/edit?usp=sharing)
 6. Copy content within `TEMPLATE - YYYY-MM-DD`
-7. Paste bellow `Next Meeting`section
+7. Paste below `Next Meeting`section
 8. Edit brackets' info [  ]
 9. Announce the GH discussion via Discord #📆weekly-calls channel using @everyone tag
 10. Announce via community Mailing List (community@lists.dev-rel.org) https://lists.dev-rel.org/g/community
@@ -221,7 +226,7 @@ During the Call
   
 After the Call
 
-3. Syntetize notes and mirror these notes in  the GH discussions dedicated entry as a new comment for those who can't access google
+3. Synthesize notes and mirror these notes in  the GH discussions dedicated entry as a new comment for those who can't access google
    
 ## Additional Training
 
