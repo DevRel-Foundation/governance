@@ -1,0 +1,44 @@
+"date","speakers","affiliation","github","title","format","duration","summary","tools","link"
+"2026-11-11","Max Körbächer","Liquid Reply","mkorbi","The Infrastructure Factory","Show and tell","20 to 30 minutes","Everyone is building software factories: agents triage, implement, verify and ship. Google reports 75% of new code is AI-generated, Uber attributes over 70% of pull requests to agents. And Anthropic had to reinvent Git to keep up with the speed. But every one of those changes still needs somewhere to run, and in most companies that somewhere still arrives through a ticket.
+
+The problem is that code got cheap. But environments did not.
+
+Let me introduce you the concept of Infrastructure Factory: a platform that turns intents from humans or agents into compliant, owned, observable, cost-attributed environments, with no ticket in the path. We look at why the most-cited software factory talks of 2026 all call infrastructure the hardest part and none treat it as a factory of its own; how it relates to the AI factory (NVIDIA’s kind and the model-factory kind) and where the two share a floor; and what the factory looks like when its front door is an MCP server and its policy gate is agentgateway.","Platform Engineering","https://aaif.io/blog/the-infrastructure-factory-a-foundation-for-agentic-ai"
+"2026-11-25","Kate Astrid","","","From Slides to Websites","Show and tell","5 to 10 minutes","I'll share how I create presentations as websites instead of traditional slide decks. We'll explore my workflow, and design principles behind turning ideas into engaging, interactive web experiences, and why the web can be a much more flexible canvas for storytelling and presenting.","",""
+"2026-12-09","Raul Jimenez Ortega","Esri Inc.","hhkaos","OpenTechEvents Specification","Show and tell","15 minutes","# The problem
+There are **more platforms, more directories and more tools** than ever for creating and announcing events, and building custom tooling keeps getting easier. That is a good thing in principle, but it comes with a serious downside:
+
+- **Events are increasingly diluted and scattered.** The information lives fragmented across Meetup, Eventbrite, LinkedIn, the organisers' own websites, GitHub repositories, third-party forms, and so on.
+- **For whoever attends**, keeping up means monitoring many different platforms and directories so as not to miss anything.
+- **For whoever organises**, getting the word out is increasingly complex: the same event has to be submitted to multiple platforms, in different formats, which multiplies both the effort and the maintenance
+
+There is no shortage of information: what is missing is interoperability.
+
+# The proposal
+
+From Community Builders, a community of over 90 community leaders in Spain, we are designing a standard specification that makes it possible to:
+
+1. **Describe an event once**, in a single, well-defined format.
+2. **Automate its distribution** to multiple directories and platforms at the same time.
+3. **Transform that data** into already established standards (RSS, iCalendar…) so it is compatible, with no friction, with the tools people already use.
+
+The idea: a community publishes its data once and an ecosystem of tools takes care of the rest — ingesting, exporting, transforming and publishing to each destination.
+
+# Downstream effects
+
+If this specification were adopted more widely, it would become straightforward to build tools that enable devrel teams to design effective conference-attendance strategies, scaling the internal support needed to help our colleagues on engineering teams find the right match between their experiences and interests when participating in events.
+
+I'm building a conference attendance framework tool that I would be happy to share. But it would be a different demo.","https://opentechevents.org/
+https://github.com/OpenTechEvents/ote-tools/tree/main/skills","https://opentechevents.org/"
+"2026-12-16","Waldek Mastykarz; Garry Trinder","Microsoft","","AI agents are your new developer audience","Show and tell","","Developers increasingly rely on AI coding agents to discover technologies, choose dependencies, read documentation, and build applications. That changes how developers experience our products, and it challenges some of the assumptions behind Developer Relations.
+
+We've spent years improving documentation, creating samples, building communities, and helping developers succeed. But what happens when the developer never visits our documentation, and an agent makes technology decisions on their behalf? How do we know whether our efforts still help?
+
+In this session, we'll explore how AI coding agents are changing Developer Relations and introduce Agent Experience (AX): a way to understand and measure how agents discover, select, and use developer technologies. Through real-world examples, we'll see why traditional DevRel activities still matter, where they fall short, and how we can evolve our practices to serve both developers and their agents.
+
+You'll leave with a new perspective on your audience and practical ideas for keeping DevRel relevant in an agent-driven world.","Agent Experience (AX); AI coding agents",""
+"2027-01-13","Marcos Placona","DevRel Bridge","mplacona","Write it down once: giving DevRel agents the context they keep asking for","Show and tell","15 minutes","Every agent doing DevRel work, whether it's writing a quickstart, a launch post, or docs, starts by asking who the product is for and what success looks like, and each one gets a different answer. 
+
+I'll show an open-source pattern I've been building. You record that context once, in a Markdown file in the repo, in developer funnel terms: who the product is for, time to Hello World, what activation means, and which stage of the journey is broken. 
+
+Reusable agent skills then read the file before they audit a quickstart or check whether agents can use your docs. Live demo on a real quickstart, plus what didn't work and what I changed because of it. People will leave with a pattern they can copy into their own repos, whatever agent they use.","Claude Code, Codex, and Cursor (any agent that can read a file or fetch a URL), and agent skills that can be installed into any of them. The agent drafts the context file and runs the audits on its own. A person reviews who the product is for and what counts as success, and picks which fixes to ship.",""
