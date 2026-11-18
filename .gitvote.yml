@@ -1,0 +1,38 @@
+# Repository profiles override the organization-wide GitVote configuration.
+automation:
+  enabled: false
+  rules:
+    - patterns: []
+      profile: profile1
+
+profiles:
+  # Preserve the Steering Committee vote started with /vote.
+  default:
+    duration: 7d
+    pass_threshold: 60
+    allowed_voters:
+      teams:
+        - steering-committee
+    periodic_status_check: null
+    close_on_passing: true
+
+  # Preserve the existing organization profile.
+  profile1:
+    duration: 1m
+    pass_threshold: 75
+    allowed_voters:
+      teams:
+        - steering-committee
+
+  # Use /vote-programs on Touchpoint and Show & Tell submission issues.
+  programs:
+    duration: 7d
+    pass_threshold: 60
+    allowed_voters:
+      users:
+        - Axolodev
+        - jonatoni
+        - andwaller
+        - afterthesegfault
+        - anajsana
+    close_on_passing: true
