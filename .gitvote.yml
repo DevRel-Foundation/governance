@@ -5,7 +5,6 @@ automation:
       profile: profile1
 
 profiles:
-  # Preserve the Steering Committee vote started with /vote.
   default:
     duration: 7d
     pass_threshold: 60
