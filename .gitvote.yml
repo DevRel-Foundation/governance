@@ -1,0 +1,26 @@
+automation:
+  enabled: false
+  rules: []
+
+profiles:
+  default:
+    duration: 7d
+    pass_threshold: 60
+    allowed_voters:
+      teams:
+        - steering-committee
+    periodic_status_check: null
+    close_on_passing: true
+
+  # Use /vote-programs on Touchpoint and Show & Tell submission issues.
+  programs:
+    duration: 7d
+    pass_threshold: 60
+    allowed_voters:
+      users:
+        - Axolodev
+        - jonatoni
+        - andwaller
+        - afterthesegfault
+        - anajsana
+    close_on_passing: true
