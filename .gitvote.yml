@@ -1,4 +1,3 @@
-# Repository profiles override the organization-wide GitVote configuration.
 automation:
   enabled: false
   rules:
