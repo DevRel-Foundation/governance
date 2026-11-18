@@ -37,6 +37,48 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+### Sharing Resources and Promotions
+
+In DRF Discord and other community spaces, members are welcome to share useful
+resources, projects, and events that are relevant to the community. Share them
+in channels whose descriptions or posted rules allow that content, and include
+enough context to explain their relevance. If you are unsure where to post,
+ask a moderator first.
+
+Share each promotion once in the appropriate channel. Follow any additional
+channel-specific limits, and obtain moderator approval before reposting a
+promotion. Repeated promotional posts, posting the same message across multiple
+channels, unsolicited bulk direct messages, and excessive mentions are not
+acceptable.
+
+When sharing your own content, services, events, or referral links, clearly
+disclose your relationship to them in the post. Personal or commercial
+promotions must also clearly state that they are independent of the Developer
+Relations Foundation. Do not imply Foundation ownership, sponsorship, or
+endorsement without authorization from the Foundation.
+
+Examples of acceptable behavior include:
+
+* Sharing a relevant resource in an appropriate channel and explaining how it
+  helps community members
+* Posting once in a channel that permits event promotions: "I'm hosting this
+  workshop through my own business. It covers onboarding for developer
+  communities and is independent of, and not sponsored or endorsed by, the
+  Developer Relations Foundation."
+* Clearly identifying a referral link and any benefit you receive when sharing
+  it in a channel that permits promotions, alongside a statement that the
+  promotion is independent of the Foundation
+
+Examples of unacceptable behavior include:
+
+* Repeatedly posting a registration link or copying a promotion across channels
+* Sending unsolicited bulk direct messages or using excessive mentions to draw
+  attention to a promotion
+* Sharing a link to your own business, event, or referral offer without
+  disclosing your relationship to it
+* Presenting an independent event as a Foundation initiative, or implying
+  Foundation sponsorship or endorsement without authorization
+
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of
@@ -73,6 +115,15 @@ reporter of any incident.
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
+
+The sharing and promotion rules above follow the same reporting and enforcement
+process as other violations. Moderators may remove noncompliant posts and
+explain the applicable rule to the member. For an initial minor violation,
+moderators should use the Correction guidance below. Repeated violations after
+a correction should be addressed with a Warning and clear consequences for
+continued behavior. Further violations may lead to a Temporary or Permanent
+Ban, based on their severity and community impact. Serious violations may
+warrant stronger action without first going through every step.
 
 ### 1. Correction
 
