@@ -14,7 +14,6 @@ profiles:
     periodic_status_check: null
     close_on_passing: true
 
-  # Preserve the existing organization profile.
   profile1:
     duration: 1m
     pass_threshold: 75
