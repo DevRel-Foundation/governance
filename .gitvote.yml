@@ -1,8 +1,6 @@
 automation:
   enabled: false
-  rules:
-    - patterns: []
-      profile: profile1
+  rules: []
 
 profiles:
   default:
@@ -13,13 +11,6 @@ profiles:
         - steering-committee
     periodic_status_check: null
     close_on_passing: true
-
-  profile1:
-    duration: 1m
-    pass_threshold: 75
-    allowed_voters:
-      teams:
-        - steering-committee
 
   # Use /vote-programs on Touchpoint and Show & Tell submission issues.
   programs:
